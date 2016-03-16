@@ -57,2169 +57,2163 @@ context default
 	keyword ~ yellow
 	keyword |> yellow
 	keyword | yellow
-	keyword zscore! brightmagenta
-	keyword zscore magenta
-	keyword zip magenta
-	keyword zeta magenta
-	keyword zeros magenta
-	keyword zero magenta
-	keyword yieldto magenta
-	keyword yield magenta
-	keyword yearmonthday magenta
-	keyword yearmonth magenta
-	keyword year magenta
-	keyword xyza magenta
-	keyword xyYa magenta
-	keyword xyYA magenta
-	keyword xyY magenta
-	keyword xtabs magenta
-	keyword xtab magenta
-	keyword xlogy magenta
-	keyword xlogx magenta
-	keyword xdump magenta
-	keyword xcorr magenta
-	keyword wsum! brightmagenta
-	keyword wsum magenta
-	keyword wstring magenta
-	keyword wsqeuclidean magenta
-	keyword wsample! brightmagenta
-	keyword wsample magenta
-	keyword writetable magenta
-	keyword writemime magenta
-	keyword writedlm magenta
-	keyword writecsv magenta
-	keyword write magenta
-	keyword wquantile magenta
-	keyword workspace magenta
-	keyword workers magenta
-	keyword wminkowski magenta
-	keyword wmedian magenta
-	keyword wmean! brightmagenta
-	keyword wmean magenta
-	keyword withenv magenta
-	keyword with_rounding magenta
-	keyword with_env magenta
-	keyword with_bigfloat_precision magenta
-	keyword widen magenta
-	keyword widemul magenta
-	keyword whos magenta
-	keyword whitebalance magenta
-	keyword while magenta
-	keyword which magenta
-	keyword whamming magenta
-	keyword weuclidean magenta
-	keyword weights magenta
-	keyword weighted_color_mean magenta
-	keyword week magenta
-	keyword wcityblock magenta
-	keyword watch_file magenta
-	keyword warn magenta
-	keyword walk magenta
-	keyword wait magenta
-	keyword w magenta
-	keyword vtop magenta
-	keyword vstack magenta
-	keyword visible magenta
-	keyword view magenta
-	keyword versioninfo magenta
-	keyword vecnorm magenta
-	keyword vecdot magenta
-	keyword vec magenta
-	keyword vcov magenta
-	keyword vcenter magenta
-	keyword vcat magenta
-	keyword vbottom magenta
-	keyword varm magenta
-	keyword variation magenta
-	keyword var magenta
-	keyword values magenta
-	keyword valtype magenta
-	keyword utf8 magenta
-	keyword utf32 magenta
-	keyword utf16 magenta
-	keyword using magenta
-	keyword uppercase magenta
-	keyword uperm magenta
-	keyword update! brightmagenta
-	keyword unstack magenta
-	keyword unsigned magenta
-	keyword unshift! brightmagenta
-	keyword unsafe_view magenta
-	keyword unsafe_trunc magenta
-	keyword unsafe_store! brightmagenta
-	keyword unsafe_pointer_to_objref magenta
-	keyword unsafe_load magenta
-	keyword unsafe_copy! brightmagenta
-	keyword unmark magenta
-	keyword unlock magenta
-	keyword unix2datetime magenta
-	keyword unique! brightmagenta
-	keyword unique magenta
-	keyword union! brightmagenta
-	keyword union magenta
-	keyword unescape_string magenta
-	keyword uint8 brown
-	keyword uint64 brown
-	keyword uint32 brown
-	keyword uint16 brown
-	keyword uint128 brown
-	keyword uint brown
-	keyword ucfirst magenta
-	keyword typeof magenta
-	keyword typemin magenta
-	keyword typemax magenta
-	keyword typejoin magenta
-	keyword typeintersect magenta
-	keyword typealias magenta
-	keyword type magenta
-	keyword tuple magenta
-	keyword tryparse magenta
-	keyword try magenta
-	keyword truncate magenta
-	keyword trunc magenta
-	keyword trues magenta
-	keyword true magenta
-	keyword triu! brightmagenta
-	keyword triu magenta
-	keyword tritanopic magenta
-	keyword trimmean magenta
-	keyword tril! brightmagenta
-	keyword tril magenta
-	keyword trigamma magenta
-	keyword transpose! brightmagenta
-	keyword transpose magenta
-	keyword trailing_zeros magenta
-	keyword trailing_ones magenta
-	keyword trace magenta
-	keyword touch magenta
-	keyword toq magenta
-	keyword toprev magenta
-	keyword top magenta
-	keyword tonext magenta
-	keyword tolast magenta
-	keyword tofirst magenta
-	keyword today magenta
-	keyword toc magenta
-	keyword timedwait magenta
-	keyword time_ns magenta
-	keyword time magenta
-	keyword tiedrank magenta
-	keyword tic magenta
-	keyword throw magenta
-	keyword text_extents magenta
-	keyword text magenta
-	keyword tempname magenta
-	keyword tempdir magenta
-	keyword task_local_storage magenta
-	keyword tanh magenta
-	keyword tand magenta
-	keyword tan magenta
-	keyword takewhile magenta
-	keyword takenth magenta
-	keyword takelast magenta
-	keyword takebuf_string magenta
-	keyword takebuf_array magenta
-	keyword take! brightmagenta
-	keyword take magenta
-	keyword tail magenta
-	keyword table magenta
-	keyword systemerror magenta
-	keyword symperm magenta
-	keyword symlink magenta
-	keyword symdiff! brightmagenta
-	keyword symdiff magenta
-	keyword symbol magenta
-	keyword sylvester magenta
-	keyword svgid magenta
-	keyword svgclass magenta
-	keyword svgattribute magenta
-	keyword svdvals! brightmagenta
-	keyword svdvals magenta
-	keyword svds magenta
-	keyword svdfact! brightmagenta
-	keyword svdfact magenta
-	keyword svd magenta
-	keyword super magenta
-	keyword summarystats magenta
-	keyword summary magenta
-	keyword sumabs2! brightmagenta
-	keyword sumabs2 magenta
-	keyword sumabs! brightmagenta
-	keyword sumabs magenta
-	keyword sum_kbn magenta
-	keyword sum! brightmagenta
-	keyword sum magenta
-	keyword success magenta
-	keyword subtypes magenta
-	keyword subtrie magenta
-	keyword sub2ind magenta
-	keyword sub magenta
-	keyword strwidth magenta
-	keyword strptime magenta
-	keyword strokeopacity magenta
-	keyword strokelinejoin magenta
-	keyword strokelinecap magenta
-	keyword strokedash magenta
-	keyword stroke magenta
-	keyword strip magenta
-	keyword stringmime magenta
-	keyword string magenta
-	keyword strides magenta
-	keyword strided_view magenta
-	keyword stride magenta
-	keyword strftime magenta
-	keyword strerror magenta
-	keyword stop_timer magenta
-	keyword step magenta
-	keyword stdm magenta
-	keyword stderr magenta
-	keyword std magenta
-	keyword status magenta
-	keyword stat magenta
-	keyword startswith magenta
-	keyword startof magenta
-	keyword start magenta
-	keyword stackdf magenta
-	keyword stack magenta
-	keyword srand magenta
-	keyword squeeze magenta
-	keyword sqrtm magenta
-	keyword sqrt magenta
-	keyword sqmahalanobis magenta
-	keyword sqeuclidean magenta
-	keyword sqL2dist magenta
-	keyword spzeros magenta
-	keyword sprint magenta
-	keyword sprandn magenta
-	keyword sprandbool magenta
-	keyword sprand magenta
-	keyword spones magenta
-	keyword splitext magenta
-	keyword splitdrive magenta
-	keyword splitdir magenta
-	keyword splitby magenta
-	keyword splitat magenta
-	keyword split magenta
-	keyword splice! brightmagenta
-	keyword speye magenta
-	keyword spdiagm magenta
-	keyword spawn magenta
-	keyword sparsevec magenta
-	keyword sparse magenta
-	keyword spannorm_dist magenta
-	keyword span magenta
-	keyword sortrows magenta
-	keyword sortperm! brightmagenta
-	keyword sortperm magenta
-	keyword sortcols magenta
-	keyword sort! brightmagenta
-	keyword sort magenta
-	keyword softplus magenta
-	keyword softmax! brightmagenta
-	keyword softmax magenta
-	keyword slicedim magenta
-	keyword slice magenta
-	keyword sleep magenta
-	keyword skipchars magenta
-	keyword skip magenta
-	keyword skewness magenta
-	keyword sizeof magenta
-	keyword sizehint! brightmagenta
-	keyword sizehint magenta
-	keyword size magenta
-	keyword sinpi magenta
-	keyword sinh magenta
-	keyword sind magenta
-	keyword sinc magenta
-	keyword sin magenta
-	keyword similar magenta
-	keyword significand magenta
-	keyword signif magenta
-	keyword signed magenta
-	keyword signbit magenta
-	keyword sign magenta
-	keyword shuffle! brightmagenta
-	keyword shuffle magenta
-	keyword showoff magenta
-	keyword showerror magenta
-	keyword showcompact magenta
-	keyword showcols magenta
-	keyword showall magenta
-	keyword show magenta
-	keyword shift! brightmagenta
-	keyword setlevels! brightmagenta
-	keyword setlevels magenta
-	keyword setindex! brightmagenta
-	keyword setfield! brightmagenta
-	keyword setenv magenta
-	keyword setdiff! brightmagenta
-	keyword setdiff magenta
-	keyword set_zero_subnormals magenta
-	keyword set_units! brightmagenta
-	keyword set_rounding magenta
-	keyword set_levels! brightmagenta
-	keyword set_levels magenta
-	keyword set_default_jsmode magenta
-	keyword set_default_graphic_size magenta
-	keyword set_bigfloat_precision magenta
-	keyword serialize magenta
-	keyword sequential_palette magenta
-	keyword seq magenta
-	keyword send magenta
-	keyword semitokens magenta
-	keyword sem magenta
-	keyword selectperm! brightmagenta
-	keyword selectperm magenta
-	keyword select! brightmagenta
-	keyword select magenta
-	keyword seekstart magenta
-	keyword seekend magenta
-	keyword seek magenta
-	keyword second magenta
-	keyword sech magenta
-	keyword secd magenta
-	keyword sec magenta
-	keyword searchsortedlast magenta
-	keyword searchsortedfirst magenta
-	keyword searchsortedafter magenta
-	keyword searchsorted magenta
-	keyword searchindex magenta
-	keyword searchequalrange magenta
-	keyword search magenta
-	keyword sdata magenta
-	keyword schurfact! brightmagenta
-	keyword schurfact magenta
-	keyword schur magenta
-	keyword schedule magenta
-	keyword scattermat magenta
-	keyword scale! brightmagenta
-	keyword scale magenta
-	keyword samplepair magenta
-	keyword sample! brightmagenta
-	keyword sample magenta
-	keyword s magenta
-	keyword run magenta
-	keyword rstrip magenta
-	keyword rsplit magenta
-	keyword rsearchindex magenta
-	keyword rsearch magenta
-	keyword rpad magenta
-	keyword rowvec_view magenta
-	keyword rowvals magenta
-	keyword round magenta
-	keyword rotr90 magenta
-	keyword rotl90 magenta
-	keyword rot180 magenta
-	keyword ror! brightmagenta
-	keyword ror magenta
-	keyword rol! brightmagenta
-	keyword rol magenta
-	keyword rmsd magenta
-	keyword rmprocs magenta
-	keyword rmfrompath! brightmagenta
-	keyword rm magenta
-	keyword rle magenta
-	keyword riffle magenta
-	keyword rgba magenta
-	keyword rfft magenta
-	keyword reverseind magenta
-	keyword reverse! brightmagenta
-	keyword reverse magenta
-	keyword return magenta
-	keyword rethrow magenta
-	keyword result_type magenta
-	keyword rest magenta
-	keyword resize! brightmagenta
-	keyword residuals magenta
-	keyword reshape_view magenta
-	keyword reshape magenta
-	keyword reset magenta
-	keyword require magenta
-	keyword reprmime magenta
-	keyword repr magenta
-	keyword repmat magenta
-	keyword replace! brightmagenta
-	keyword replace magenta
-	keyword repeatedly magenta
-	keyword repeated magenta
-	keyword repeat magenta
-	keyword rep magenta
-	keyword reorder magenta
-	keyword rename! brightmagenta
-	keyword rename magenta
-	keyword removeNA magenta
-	keyword remove magenta
-	keyword remotecall_wait magenta
-	keyword remotecall_fetch magenta
-	keyword remotecall magenta
-	keyword rem1 magenta
-	keyword rem magenta
-	keyword relpath magenta
-	keyword reload magenta
-	keyword reldiff magenta
-	keyword reinterpret magenta
-	keyword reim magenta
-	keyword regress magenta
-	keyword reenable_sigint magenta
-	keyword reductions magenta
-	keyword reducedim magenta
-	keyword reduce magenta
-	keyword redisplay magenta
-	keyword redirect_stdout magenta
-	keyword redirect_stdin magenta
-	keyword redirect_stderr magenta
-	keyword red magenta
-	keyword recvfrom magenta
-	keyword recv magenta
-	keyword recur magenta
-	keyword rectangle magenta
-	keyword realpath magenta
-	keyword realmin magenta
-	keyword realmax magenta
-	keyword real magenta
-	keyword readuntil magenta
-	keyword readtable magenta
-	keyword readlink magenta
-	keyword readlines magenta
-	keyword readline magenta
-	keyword readdlm magenta
-	keyword readdir magenta
-	keyword readcsv magenta
-	keyword readchomp magenta
-	keyword readbytes! brightmagenta
-	keyword readbytes magenta
-	keyword readavailable magenta
-	keyword readandwrite magenta
-	keyword readall magenta
-	keyword read_rda magenta
-	keyword read! brightmagenta
-	keyword read magenta
-	keyword rationalize magenta
-	keyword rata2datetime magenta
-	keyword rank magenta
-	keyword range magenta
-	keyword randsubseq! brightmagenta
-	keyword randsubseq magenta
-	keyword randstring magenta
-	keyword randperm magenta
-	keyword randn! brightmagenta
-	keyword randn magenta
-	keyword randjump magenta
-	keyword randexp! brightmagenta
-	keyword randexp magenta
-	keyword randcycle magenta
-	keyword randbool! brightmagenta
-	keyword randbool magenta
-	keyword rand! brightmagenta
-	keyword rand magenta
-	keyword rad2deg magenta
-	keyword quote magenta
-	keyword quit magenta
-	keyword queue magenta
-	keyword quarterofyear magenta
-	keyword quantile! brightmagenta
-	keyword quantile magenta
-	keyword quadgk magenta
-	keyword qrfact! brightmagenta
-	keyword qrfact magenta
-	keyword qr magenta
-	keyword px magenta
-	keyword pwd magenta
-	keyword put! brightmagenta
-	keyword pushdisplay magenta
-	keyword push! brightmagenta
-	keyword pt magenta
-	keyword psnr magenta
-	keyword protanopic magenta
-	keyword proportions magenta
-	keyword proportionmap magenta
-	keyword promote_type magenta
-	keyword promote_shape magenta
-	keyword promote_rule magenta
-	keyword promote magenta
-	keyword profile magenta
-	keyword produce magenta
-	keyword prod! brightmagenta
-	keyword prod magenta
-	keyword procs magenta
-	keyword process_running magenta
-	keyword process_exited magenta
-	keyword printtable magenta
-	keyword println yellow
-	keyword print_with_color yellow
-	keyword print_unescaped yellow
-	keyword print_shortest yellow
-	keyword print_joined yellow
-	keyword print_escaped yellow
-	keyword print yellow
-	keyword primesmask magenta
-	keyword primes magenta
-	keyword prewalk magenta
-	keyword prevprod magenta
-	keyword prevpow2 magenta
-	keyword prevpow magenta
-	keyword prevind magenta
-	keyword prevfloat magenta
-	keyword prepend! brightmagenta
-	keyword prepend magenta
-	keyword predict! brightmagenta
-	keyword predict magenta
-	keyword precompile magenta
-	keyword precision magenta
-	keyword powermod magenta
-	keyword postwalk magenta
-	keyword position magenta
-	keyword popdisplay magenta
-	keyword pop! brightmagenta
-	keyword pool! brightmagenta
-	keyword pool magenta
-	keyword polygon magenta
-	keyword polygamma magenta
-	keyword poll_file magenta
-	keyword poll_fd magenta
-	keyword pointer_to_string magenta
-	keyword pointer_to_array magenta
-	keyword pointer_from_objref magenta
-	keyword pointer magenta
-	keyword pmap magenta
-	keyword plan_rfft magenta
-	keyword plan_irfft magenta
-	keyword plan_ifft! brightmagenta
-	keyword plan_ifft magenta
-	keyword plan_idct! brightmagenta
-	keyword plan_idct magenta
-	keyword plan_fft! brightmagenta
-	keyword plan_fft magenta
-	keyword plan_dct! brightmagenta
-	keyword plan_dct magenta
-	keyword plan_brfft magenta
-	keyword plan_bfft! brightmagenta
-	keyword plan_bfft magenta
-	keyword pipeline magenta
-	keyword pipe magenta
-	keyword pinv magenta
-	keyword pi magenta
-	keyword permutedims! brightmagenta
-	keyword permutedims magenta
-	keyword permute! brightmagenta
-	keyword permutations magenta
-	keyword percentile magenta
-	keyword percent_change magenta
-	keyword peek magenta
-	keyword peakflops magenta
-	keyword pdata magenta
-	keyword path magenta
-	keyword pastendsemitoken magenta
-	keyword partitions magenta
-	keyword partitionby magenta
-	keyword partition magenta
-	keyword parseip magenta
-	keyword parseint magenta
-	keyword parsefloat magenta
-	keyword parse magenta
-	keyword parity magenta
-	keyword parentindexes magenta
-	keyword parent magenta
-	keyword pairwise! brightmagenta
-	keyword pairwise magenta
-	keyword pad_outer magenta
-	keyword pad_inner magenta
-	keyword padNA magenta
-	keyword pad magenta
-	keyword packdeepcopy magenta
-	keyword packcopy magenta
-	keyword pacf! brightmagenta
-	keyword pacf magenta
-	keyword ordschur! brightmagenta
-	keyword ordschur magenta
-	keyword ordinalrank magenta
-	keyword orderobject magenta
-	keyword order magenta
-	keyword operm magenta
-	keyword open magenta
-	keyword ones magenta
-	keyword one magenta
-	keyword oftype magenta
-	keyword oct magenta
-	keyword object_id magenta
-	keyword nzrange magenta
-	keyword nworkers magenta
-	keyword num_groups magenta
-	keyword num_blocks magenta
-	keyword num2hex magenta
-	keyword num magenta
-	keyword nullspace magenta
-	keyword nullable! brightmagenta
-	keyword null magenta
-	keyword ntuple magenta
-	keyword ntoh magenta
-	keyword nthperm! brightmagenta
-	keyword nthperm magenta
-	keyword nsmallest magenta
-	keyword nrow magenta
-	keyword nquantile magenta
-	keyword nprocs magenta
-	keyword now magenta
-	keyword notify magenta
-	keyword nothing magenta
-	keyword normpath magenta
-	keyword normalize_string magenta
-	keyword norm magenta
-	keyword nonzeros magenta
-	keyword nonunique magenta
-	keyword nobs magenta
-	keyword nnz magenta
-	keyword nlargest magenta
-	keyword nil magenta
-	keyword nfields magenta
-	keyword nextprod magenta
-	keyword nextpow2 magenta
-	keyword nextpow magenta
-	keyword nextind magenta
-	keyword nextfloat magenta
-	keyword next magenta
-	keyword ndims magenta
-	keyword ndigits magenta
-	keyword ncol magenta
-	keyword nb_available magenta
-	keyword nan magenta
-	keyword names! brightmagenta
-	keyword names magenta
-	keyword myid magenta
-	keyword mv magenta
-	keyword mutable_binary_minheap magenta
-	keyword mutable_binary_maxheap magenta
-	keyword muladd magenta
-	keyword mtime magenta
-	keyword msync magenta
-	keyword msd magenta
-	keyword monthname magenta
-	keyword monthday magenta
-	keyword monthabbr magenta
-	keyword month magenta
-	keyword moment magenta
-	keyword module_parent magenta
-	keyword module_name magenta
-	keyword module magenta
-	keyword modf magenta
-	keyword modes magenta
-	keyword model_response magenta
-	keyword mode magenta
-	keyword mod2pi magenta
-	keyword mod1 magenta
-	keyword mod magenta
-	keyword mmap_bitarray magenta
-	keyword mmap_array magenta
-	keyword mmap magenta
-	keyword mm magenta
-	keyword mktempdir magenta
-	keyword mktemp magenta
-	keyword mkpath magenta
-	keyword mkdir magenta
-	keyword minwidth magenta
-	keyword minute magenta
-	keyword minmax magenta
-	keyword minkowski magenta
-	keyword minimum! brightmagenta
-	keyword minimum magenta
-	keyword minheight magenta
-	keyword minabs! brightmagenta
-	keyword minabs magenta
-	keyword min magenta
-	keyword mimewritable magenta
-	keyword millisecond magenta
-	keyword midpoints magenta
-	keyword middle magenta
-	keyword methodswith magenta
-	keyword methods magenta
-	keyword method_exists magenta
-	keyword merge! brightmagenta
-	keyword merge magenta
-	keyword meltdf magenta
-	keyword melt magenta
-	keyword median! brightmagenta
-	keyword median magenta
-	keyword meanad magenta
-	keyword mean_and_var magenta
-	keyword mean_and_std magenta
-	keyword mean_and_cov magenta
-	keyword mean! brightmagenta
-	keyword mean magenta
-	keyword maxintfloat magenta
-	keyword maximum! brightmagenta
-	keyword maximum magenta
-	keyword maxad magenta
-	keyword maxabs! brightmagenta
-	keyword maxabs magenta
-	keyword max_text_extents magenta
-	keyword max magenta
-	keyword matchall magenta
-	keyword match magenta
-	keyword mark magenta
-	keyword mapslices magenta
-	keyword mapreducedim magenta
-	keyword mapreduce magenta
-	keyword mapfoldr magenta
-	keyword mapfoldl magenta
-	keyword map! brightmagenta
-	keyword map magenta
-	keyword manage magenta
-	keyword mahalanobis magenta
-	keyword mad magenta
-	keyword macroexpand magenta
-	keyword macro magenta
-	keyword lyap magenta
-	keyword luva magenta
-	keyword lufact! brightmagenta
-	keyword lufact magenta
-	keyword lu magenta
-	keyword ltoh magenta
-	keyword lstrip magenta
-	keyword lstat magenta
-	keyword lpad magenta
-	keyword lowercase magenta
-	keyword logsumexp magenta
-	keyword logspace magenta
-	keyword logm magenta
-	keyword loglikelihood magenta
-	keyword logit magenta
-	keyword logistic magenta
-	keyword logdet magenta
-	keyword logabsdet magenta
-	keyword log2 magenta
-	keyword log1p magenta
-	keyword log10 magenta
-	keyword log magenta
-	keyword lock magenta
-	keyword localindexes magenta
-	keyword local magenta
-	keyword lmsa magenta
-	keyword listenany magenta
-	keyword listen magenta
-	keyword list magenta
-	keyword linspace magenta
-	keyword linreg magenta
-	keyword linrange magenta
-	keyword linewidth magenta
-	keyword line magenta
-	keyword lgamma magenta
-	keyword lfact magenta
-	keyword lexless magenta
-	keyword lexcmp magenta
-	keyword levicivita magenta
-	keyword levelsmap magenta
-	keyword levels magenta
-	keyword let magenta
-	keyword less magenta
-	keyword length magenta
-	keyword leading_zeros magenta
-	keyword leading_ones magenta
-	keyword ldltfact! brightmagenta
-	keyword ldltfact magenta
-	keyword ldexp magenta
-	keyword lcm magenta
-	keyword lchuva magenta
-	keyword lchaba magenta
-	keyword lcfirst magenta
-	keyword lbeta magenta
-	keyword lazymap magenta
-	keyword launch magenta
-	keyword lastdayofyear magenta
-	keyword lastdayofweek magenta
-	keyword lastdayofquarter magenta
-	keyword lastdayofmonth magenta
-	keyword last magenta
-	keyword laba magenta
-	keyword kurtosis magenta
-	keyword kron magenta
-	keyword kldivergence magenta
-	keyword kl_divergence magenta
-	keyword kill magenta
-	keyword keytype magenta
-	keyword keys_with_prefix magenta
-	keyword keys magenta
-	keyword julian2datetime magenta
-	keyword jsinclude magenta
-	keyword jscall magenta
-	keyword js_divergence magenta
-	keyword joinpath magenta
-	keyword join magenta
-	keyword itrunc magenta
-	keyword iterate magenta
-	keyword iter magenta
-	keyword isxdigit red
-	keyword iswritable red
-	keyword isvalid red
-	keyword isupper red
-	keyword istriu red
-	keyword istril red
-	keyword istext red
-	keyword istaskstarted red
-	keyword istaskdone red
-	keyword issym red
-	keyword issubtype red
-	keyword issubset red
-	keyword issubnormal red
-	keyword issticky red
-	keyword issparse red
-	keyword isspace red
-	keyword issorted red
-	keyword issocket red
-	keyword issetuid red
-	keyword issetgid red
-	keyword isreal red
-	keyword isready red
-	keyword isreadonly red
-	keyword isreadable red
-	keyword isqrt red
-	keyword ispunct red
-	keyword isprint red
-	keyword isprime red
-	keyword ispow2 red
-	keyword isposdef! brightmagenta
-	keyword isposdef red
-	keyword isperm red
-	keyword ispath red
-	keyword isopen red
-	keyword isodd red
-	keyword isnumber red
-	keyword isnull red
-	keyword isnan red
-	keyword isna red
-	keyword ismount red
-	keyword ismatch red
-	keyword ismarked red
-	keyword islower red
-	keyword islink red
-	keyword isless red
-	keyword isleapyear red
-	keyword isleaftype red
-	keyword isinteractive red
-	keyword isinteger red
-	keyword isinf red
-	keyword isimmutable red
-	keyword ishermitian red
-	keyword isgraph red
-	keyword isgeneric red
-	keyword isfinite red
-	keyword isfile red
-	keyword isfifo red
-	keyword isexecutable red
-	keyword iseven red
-	keyword isequal red
-	keyword isempty red
-	keyword iseltype red
-	keyword isdirpath red
-	keyword isdir red
-	keyword isdigit red
-	keyword isdiag red
-	keyword isdefined red
-	keyword iscontiguous red
-	keyword isconst red
-	keyword iscntrl red
-	keyword ischardev red
-	keyword isblockdev red
-	keyword isblank red
-	keyword isbits red
-	keyword isassigned red
-	keyword isascii red
-	keyword isapprox red
-	keyword isalpha red
-	keyword isalnum red
-	keyword isabspath red
-	keyword isa red
-	keyword is_valid_utf8 red
-	keyword is_valid_utf32 red
-	keyword is_valid_utf16 red
-	keyword is_valid_char red
-	keyword is_valid_ascii red
-	keyword is_assigned_char red
-	keyword is red
-	keyword iround magenta
-	keyword irfft magenta
-	keyword iqr magenta
-	keyword ipermutedims magenta
-	keyword ipermute! brightmagenta
-	keyword invsoftplus magenta
-	keyword invperm magenta
-	keyword invoke magenta
-	keyword invmod magenta
-	keyword inverse_rle magenta
-	keyword invdigamma magenta
-	keyword inv magenta
-	keyword introspect magenta
-	keyword intersect! brightmagenta
-	keyword intersect magenta
-	keyword interrupt magenta
-	keyword interpose magenta
-	keyword integer magenta
-	keyword int8 magenta
-	keyword int64 magenta
-	keyword int32 magenta
-	keyword int16 magenta
-	keyword int128 magenta
-	keyword int magenta
-	keyword instances magenta
-	keyword insert! brightmagenta
-	keyword init_worker magenta
-	keyword init magenta
-	keyword info magenta
-	keyword inf magenta
-	keyword indmin magenta
-	keyword indmax magenta
-	keyword indicatormat magenta
-	keyword indexpids magenta
-	keyword indexmap magenta
-	keyword indexin magenta
-	keyword ind2sub! brightmagenta
-	keyword ind2sub magenta
-	keyword ind2chr magenta
-	keyword inclusive magenta
-	keyword include_string magenta
-	keyword include_dependency magenta
-	keyword include magenta
-	keyword inch magenta
-	keyword in_same_set magenta
-	keyword in red
-	keyword importall magenta
-	keyword import magenta
-	keyword immutable magenta
-	keyword imag magenta
-	keyword im magenta
-	keyword ignorestatus magenta
-	keyword ifloor magenta
-	keyword ifftshift magenta
-	keyword ifft! brightmagenta
-	keyword ifft magenta
-	keyword ifelse magenta
-	keyword if red
-	keyword identity magenta
-	keyword idct! brightmagenta
-	keyword idct magenta
-	keyword iceil magenta
-	keyword hypot magenta
-	keyword hvcat magenta
-	keyword hton magenta
-	keyword htol magenta
-	keyword hsva magenta
-	keyword hstack magenta
-	keyword hsla magenta
-	keyword hright magenta
-	keyword hour magenta
-	keyword homedir magenta
-	keyword hleft magenta
-	keyword histrange magenta
-	keyword hist2d! brightmagenta
-	keyword hist2d magenta
-	keyword hist! brightmagenta
-	keyword hist magenta
-	keyword hex2num magenta
-	keyword hex2bytes magenta
-	keyword hex magenta
-	keyword hessfact! brightmagenta
-	keyword hessfact magenta
-	keyword hellinger magenta
-	keyword head magenta
-	keyword hcenter magenta
-	keyword hcat magenta
-	keyword haskey red
-	keyword hash magenta
-	keyword harmmean magenta
-	keyword hankelh2x magenta
-	keyword hankelh2 magenta
-	keyword hankelh1x magenta
-	keyword hankelh1 magenta
-	keyword hamming magenta
-	keyword h magenta
-	keyword gzwrite magenta
-	keyword gzungetc magenta
-	keyword gzread magenta
-	keyword gzputc magenta
-	keyword gzopen magenta
-	keyword gzgets magenta
-	keyword gzgetc magenta
-	keyword gzdopen magenta
-	keyword gzbuffer magenta
-	keyword groupby magenta
-	keyword gridstack magenta
+	keyword whole zscore! brightmagenta
+	keyword whole zscore magenta
+	keyword whole zip magenta
+	keyword whole zeta magenta
+	keyword whole zeros magenta
+	keyword whole zero magenta
+	keyword whole yieldto magenta
+	keyword whole yield magenta
+	keyword whole yearmonthday magenta
+	keyword whole yearmonth magenta
+	keyword whole year magenta
+	keyword whole xyza magenta
+	keyword whole xyYa magenta
+	keyword whole xyYA magenta
+	keyword whole xyY magenta
+	keyword whole xtabs magenta
+	keyword whole xtab magenta
+	keyword whole xlogy magenta
+	keyword whole xlogx magenta
+	keyword whole xdump magenta
+	keyword whole xcorr magenta
+	keyword whole wsum! brightmagenta
+	keyword whole wsum magenta
+	keyword whole wstring magenta
+	keyword whole wsqeuclidean magenta
+	keyword whole wsample! brightmagenta
+	keyword whole wsample magenta
+	keyword whole writetable magenta
+	keyword whole writemime magenta
+	keyword whole writedlm magenta
+	keyword whole writecsv magenta
+	keyword whole write magenta
+	keyword whole wquantile magenta
+	keyword whole workspace magenta
+	keyword whole workers magenta
+	keyword whole wminkowski magenta
+	keyword whole wmedian magenta
+	keyword whole wmean! brightmagenta
+	keyword whole wmean magenta
+	keyword whole withenv magenta
+	keyword whole with_rounding magenta
+	keyword whole with_env magenta
+	keyword whole with_bigfloat_precision magenta
+	keyword whole widen magenta
+	keyword whole widemul magenta
+	keyword whole whos magenta
+	keyword whole whitebalance magenta
+	keyword whole while magenta
+	keyword whole which magenta
+	keyword whole whamming magenta
+	keyword whole weuclidean magenta
+	keyword whole weights magenta
+	keyword whole weighted_color_mean magenta
+	keyword whole week magenta
+	keyword whole wcityblock magenta
+	keyword whole watch_file magenta
+	keyword whole warn magenta
+	keyword whole walk magenta
+	keyword whole wait magenta
+	keyword whole vstack magenta
+	keyword whole visible magenta
+	keyword whole view magenta
+	keyword whole versioninfo magenta
+	keyword whole vecnorm magenta
+	keyword whole vecdot magenta
+	keyword whole vec magenta
+	keyword whole vcov magenta
+	keyword whole vcenter magenta
+	keyword whole vcat magenta
+	keyword whole vbottom magenta
+	keyword whole varm magenta
+	keyword whole variation magenta
+	keyword whole var magenta
+	keyword whole values magenta
+	keyword whole valtype magenta
+	keyword whole utf8 magenta
+	keyword whole utf32 magenta
+	keyword whole utf16 magenta
+	keyword whole using magenta
+	keyword whole uppercase magenta
+	keyword whole uperm magenta
+	keyword whole update! brightmagenta
+	keyword whole unstack magenta
+	keyword whole unsigned magenta
+	keyword whole unshift! brightmagenta
+	keyword whole unsafe_view magenta
+	keyword whole unsafe_trunc magenta
+	keyword whole unsafe_store! brightmagenta
+	keyword whole unsafe_pointer_to_objref magenta
+	keyword whole unsafe_load magenta
+	keyword whole unsafe_copy! brightmagenta
+	keyword whole unmark magenta
+	keyword whole unlock magenta
+	keyword whole unix2datetime magenta
+	keyword whole unique! brightmagenta
+	keyword whole unique magenta
+	keyword whole union! brightmagenta
+	keyword whole union magenta
+	keyword whole unescape_string magenta
+	keyword whole uint8 brown
+	keyword whole uint64 brown
+	keyword whole uint32 brown
+	keyword whole uint16 brown
+	keyword whole uint128 brown
+	keyword whole uint brown
+	keyword whole ucfirst magenta
+	keyword whole typeof magenta
+	keyword whole typemin magenta
+	keyword whole typemax magenta
+	keyword whole typejoin magenta
+	keyword whole typeintersect magenta
+	keyword whole typealias magenta
+	keyword whole type magenta
+	keyword whole tuple magenta
+	keyword whole tryparse magenta
+	keyword whole try magenta
+	keyword whole truncate magenta
+	keyword whole trunc magenta
+	keyword whole trues magenta
+	keyword whole true magenta
+	keyword whole triu! brightmagenta
+	keyword whole triu magenta
+	keyword whole tritanopic magenta
+	keyword whole trimmean magenta
+	keyword whole tril! brightmagenta
+	keyword whole tril magenta
+	keyword whole trigamma magenta
+	keyword whole transpose! brightmagenta
+	keyword whole transpose magenta
+	keyword whole trailing_zeros magenta
+	keyword whole trailing_ones magenta
+	keyword whole trace magenta
+	keyword whole touch magenta
+	keyword whole toq magenta
+	keyword whole toprev magenta
+	keyword whole top magenta
+	keyword whole tonext magenta
+	keyword whole tolast magenta
+	keyword whole tofirst magenta
+	keyword whole today magenta
+	keyword whole toc magenta
+	keyword whole timedwait magenta
+	keyword whole time_ns magenta
+	keyword whole time magenta
+	keyword whole tiedrank magenta
+	keyword whole tic magenta
+	keyword whole throw magenta
+	keyword whole text_extents magenta
+	keyword whole text magenta
+	keyword whole tempname magenta
+	keyword whole tempdir magenta
+	keyword whole task_local_storage magenta
+	keyword whole tanh magenta
+	keyword whole tand magenta
+	keyword whole tan magenta
+	keyword whole takewhile magenta
+	keyword whole takenth magenta
+	keyword whole takelast magenta
+	keyword whole takebuf_string magenta
+	keyword whole takebuf_array magenta
+	keyword whole take! brightmagenta
+	keyword whole take magenta
+	keyword whole tail magenta
+	keyword whole table magenta
+	keyword whole systemerror magenta
+	keyword whole symperm magenta
+	keyword whole symlink magenta
+	keyword whole symdiff! brightmagenta
+	keyword whole symdiff magenta
+	keyword whole symbol magenta
+	keyword whole sylvester magenta
+	keyword whole svgid magenta
+	keyword whole svgclass magenta
+	keyword whole svgattribute magenta
+	keyword whole svdvals! brightmagenta
+	keyword whole svdvals magenta
+	keyword whole svds magenta
+	keyword whole svdfact! brightmagenta
+	keyword whole svdfact magenta
+	keyword whole svd magenta
+	keyword whole super magenta
+	keyword whole summarystats magenta
+	keyword whole summary magenta
+	keyword whole sumabs2! brightmagenta
+	keyword whole sumabs2 magenta
+	keyword whole sumabs! brightmagenta
+	keyword whole sumabs magenta
+	keyword whole sum_kbn magenta
+	keyword whole sum! brightmagenta
+	keyword whole sum magenta
+	keyword whole success magenta
+	keyword whole subtypes magenta
+	keyword whole subtrie magenta
+	keyword whole sub2ind magenta
+	keyword whole sub magenta
+	keyword whole strwidth magenta
+	keyword whole strptime magenta
+	keyword whole strokeopacity magenta
+	keyword whole strokelinejoin magenta
+	keyword whole strokelinecap magenta
+	keyword whole strokedash magenta
+	keyword whole stroke magenta
+	keyword whole strip magenta
+	keyword whole stringmime magenta
+	keyword whole string magenta
+	keyword whole strides magenta
+	keyword whole strided_view magenta
+	keyword whole stride magenta
+	keyword whole strftime magenta
+	keyword whole strerror magenta
+	keyword whole stop_timer magenta
+	keyword whole step magenta
+	keyword whole stdm magenta
+	keyword whole stderr magenta
+	keyword whole std magenta
+	keyword whole status magenta
+	keyword whole stat magenta
+	keyword whole startswith magenta
+	keyword whole startof magenta
+	keyword whole start magenta
+	keyword whole stackdf magenta
+	keyword whole stack magenta
+	keyword whole srand magenta
+	keyword whole squeeze magenta
+	keyword whole sqrtm magenta
+	keyword whole sqrt magenta
+	keyword whole sqmahalanobis magenta
+	keyword whole sqeuclidean magenta
+	keyword whole sqL2dist magenta
+	keyword whole spzeros magenta
+	keyword whole sprint magenta
+	keyword whole sprandn magenta
+	keyword whole sprandbool magenta
+	keyword whole sprand magenta
+	keyword whole spones magenta
+	keyword whole splitext magenta
+	keyword whole splitdrive magenta
+	keyword whole splitdir magenta
+	keyword whole splitby magenta
+	keyword whole splitat magenta
+	keyword whole split magenta
+	keyword whole splice! brightmagenta
+	keyword whole speye magenta
+	keyword whole spdiagm magenta
+	keyword whole spawn magenta
+	keyword whole sparsevec magenta
+	keyword whole sparse magenta
+	keyword whole spannorm_dist magenta
+	keyword whole span magenta
+	keyword whole sortrows magenta
+	keyword whole sortperm! brightmagenta
+	keyword whole sortperm magenta
+	keyword whole sortcols magenta
+	keyword whole sort! brightmagenta
+	keyword whole sort magenta
+	keyword whole softplus magenta
+	keyword whole softmax! brightmagenta
+	keyword whole softmax magenta
+	keyword whole slicedim magenta
+	keyword whole slice magenta
+	keyword whole sleep magenta
+	keyword whole skipchars magenta
+	keyword whole skip magenta
+	keyword whole skewness magenta
+	keyword whole sizeof magenta
+	keyword whole sizehint! brightmagenta
+	keyword whole sizehint magenta
+	keyword whole size magenta
+	keyword whole sinpi magenta
+	keyword whole sinh magenta
+	keyword whole sind magenta
+	keyword whole sinc magenta
+	keyword whole sin magenta
+	keyword whole similar magenta
+	keyword whole significand magenta
+	keyword whole signif magenta
+	keyword whole signed magenta
+	keyword whole signbit magenta
+	keyword whole sign magenta
+	keyword whole shuffle! brightmagenta
+	keyword whole shuffle magenta
+	keyword whole showoff magenta
+	keyword whole showerror magenta
+	keyword whole showcompact magenta
+	keyword whole showcols magenta
+	keyword whole showall magenta
+	keyword whole show magenta
+	keyword whole shift! brightmagenta
+	keyword whole setlevels! brightmagenta
+	keyword whole setlevels magenta
+	keyword whole setindex! brightmagenta
+	keyword whole setfield! brightmagenta
+	keyword whole setenv magenta
+	keyword whole setdiff! brightmagenta
+	keyword whole setdiff magenta
+	keyword whole set_zero_subnormals magenta
+	keyword whole set_units! brightmagenta
+	keyword whole set_rounding magenta
+	keyword whole set_levels! brightmagenta
+	keyword whole set_levels magenta
+	keyword whole set_default_jsmode magenta
+	keyword whole set_default_graphic_size magenta
+	keyword whole set_bigfloat_precision magenta
+	keyword whole serialize magenta
+	keyword whole sequential_palette magenta
+	keyword whole seq magenta
+	keyword whole send magenta
+	keyword whole semitokens magenta
+	keyword whole sem magenta
+	keyword whole selectperm! brightmagenta
+	keyword whole selectperm magenta
+	keyword whole select! brightmagenta
+	keyword whole select magenta
+	keyword whole seekstart magenta
+	keyword whole seekend magenta
+	keyword whole seek magenta
+	keyword whole second magenta
+	keyword whole sech magenta
+	keyword whole secd magenta
+	keyword whole sec magenta
+	keyword whole searchsortedlast magenta
+	keyword whole searchsortedfirst magenta
+	keyword whole searchsortedafter magenta
+	keyword whole searchsorted magenta
+	keyword whole searchindex magenta
+	keyword whole searchequalrange magenta
+	keyword whole search magenta
+	keyword whole sdata magenta
+	keyword whole schurfact! brightmagenta
+	keyword whole schurfact magenta
+	keyword whole schur magenta
+	keyword whole schedule magenta
+	keyword whole scattermat magenta
+	keyword whole scale! brightmagenta
+	keyword whole scale magenta
+	keyword whole samplepair magenta
+	keyword whole sample! brightmagenta
+	keyword whole sample magenta
+	keyword whole run magenta
+	keyword whole rstrip magenta
+	keyword whole rsplit magenta
+	keyword whole rsearchindex magenta
+	keyword whole rsearch magenta
+	keyword whole rpad magenta
+	keyword whole rowvec_view magenta
+	keyword whole rowvals magenta
+	keyword whole round magenta
+	keyword whole rotr90 magenta
+	keyword whole rotl90 magenta
+	keyword whole rot180 magenta
+	keyword whole ror! brightmagenta
+	keyword whole ror magenta
+	keyword whole rol! brightmagenta
+	keyword whole rol magenta
+	keyword whole rmsd magenta
+	keyword whole rmprocs magenta
+	keyword whole rmfrompath! brightmagenta
+	keyword whole rm magenta
+	keyword whole rle magenta
+	keyword whole riffle magenta
+	keyword whole rgba magenta
+	keyword whole rfft magenta
+	keyword whole reverseind magenta
+	keyword whole reverse! brightmagenta
+	keyword whole reverse magenta
+	keyword whole return magenta
+	keyword whole rethrow magenta
+	keyword whole result_type magenta
+	keyword whole rest magenta
+	keyword whole resize! brightmagenta
+	keyword whole residuals magenta
+	keyword whole reshape_view magenta
+	keyword whole reshape magenta
+	keyword whole reset magenta
+	keyword whole require magenta
+	keyword whole reprmime magenta
+	keyword whole repr magenta
+	keyword whole repmat magenta
+	keyword whole replace! brightmagenta
+	keyword whole replace magenta
+	keyword whole repeatedly magenta
+	keyword whole repeated magenta
+	keyword whole repeat magenta
+	keyword whole rep magenta
+	keyword whole reorder magenta
+	keyword whole rename! brightmagenta
+	keyword whole rename magenta
+	keyword whole removeNA magenta
+	keyword whole remove magenta
+	keyword whole remotecall_wait magenta
+	keyword whole remotecall_fetch magenta
+	keyword whole remotecall magenta
+	keyword whole rem1 magenta
+	keyword whole rem magenta
+	keyword whole relpath magenta
+	keyword whole reload magenta
+	keyword whole reldiff magenta
+	keyword whole reinterpret magenta
+	keyword whole reim magenta
+	keyword whole regress magenta
+	keyword whole reenable_sigint magenta
+	keyword whole reductions magenta
+	keyword whole reducedim magenta
+	keyword whole reduce magenta
+	keyword whole redisplay magenta
+	keyword whole redirect_stdout magenta
+	keyword whole redirect_stdin magenta
+	keyword whole redirect_stderr magenta
+	keyword whole red magenta
+	keyword whole recvfrom magenta
+	keyword whole recv magenta
+	keyword whole recur magenta
+	keyword whole rectangle magenta
+	keyword whole realpath magenta
+	keyword whole realmin magenta
+	keyword whole realmax magenta
+	keyword whole real magenta
+	keyword whole readuntil magenta
+	keyword whole readtable magenta
+	keyword whole readlink magenta
+	keyword whole readlines magenta
+	keyword whole readline magenta
+	keyword whole readdlm magenta
+	keyword whole readdir magenta
+	keyword whole readcsv magenta
+	keyword whole readchomp magenta
+	keyword whole readbytes! brightmagenta
+	keyword whole readbytes magenta
+	keyword whole readavailable magenta
+	keyword whole readandwrite magenta
+	keyword whole readall magenta
+	keyword whole read_rda magenta
+	keyword whole read! brightmagenta
+	keyword whole read magenta
+	keyword whole rationalize magenta
+	keyword whole rata2datetime magenta
+	keyword whole rank magenta
+	keyword whole range magenta
+	keyword whole randsubseq! brightmagenta
+	keyword whole randsubseq magenta
+	keyword whole randstring magenta
+	keyword whole randperm magenta
+	keyword whole randn! brightmagenta
+	keyword whole randn magenta
+	keyword whole randjump magenta
+	keyword whole randexp! brightmagenta
+	keyword whole randexp magenta
+	keyword whole randcycle magenta
+	keyword whole randbool! brightmagenta
+	keyword whole randbool magenta
+	keyword whole rand! brightmagenta
+	keyword whole rand magenta
+	keyword whole rad2deg magenta
+	keyword whole quote magenta
+	keyword whole quit magenta
+	keyword whole queue magenta
+	keyword whole quarterofyear magenta
+	keyword whole quantile! brightmagenta
+	keyword whole quantile magenta
+	keyword whole quadgk magenta
+	keyword whole qrfact! brightmagenta
+	keyword whole qrfact magenta
+	keyword whole qr magenta
+	keyword whole px magenta
+	keyword whole pwd magenta
+	keyword whole put! brightmagenta
+	keyword whole pushdisplay magenta
+	keyword whole push! brightmagenta
+	keyword whole pt magenta
+	keyword whole psnr magenta
+	keyword whole protanopic magenta
+	keyword whole proportions magenta
+	keyword whole proportionmap magenta
+	keyword whole promote_type magenta
+	keyword whole promote_shape magenta
+	keyword whole promote_rule magenta
+	keyword whole promote magenta
+	keyword whole profile magenta
+	keyword whole produce magenta
+	keyword whole prod! brightmagenta
+	keyword whole prod magenta
+	keyword whole procs magenta
+	keyword whole process_running magenta
+	keyword whole process_exited magenta
+	keyword whole printtable magenta
+	keyword whole println yellow
+	keyword whole print_with_color yellow
+	keyword whole print_unescaped yellow
+	keyword whole print_shortest yellow
+	keyword whole print_joined yellow
+	keyword whole print_escaped yellow
+	keyword whole print yellow
+	keyword whole primesmask magenta
+	keyword whole primes magenta
+	keyword whole prewalk magenta
+	keyword whole prevprod magenta
+	keyword whole prevpow2 magenta
+	keyword whole prevpow magenta
+	keyword whole prevind magenta
+	keyword whole prevfloat magenta
+	keyword whole prepend! brightmagenta
+	keyword whole prepend magenta
+	keyword whole predict! brightmagenta
+	keyword whole predict magenta
+	keyword whole precompile magenta
+	keyword whole precision magenta
+	keyword whole powermod magenta
+	keyword whole postwalk magenta
+	keyword whole position magenta
+	keyword whole popdisplay magenta
+	keyword whole pop! brightmagenta
+	keyword whole pool! brightmagenta
+	keyword whole pool magenta
+	keyword whole polygon magenta
+	keyword whole polygamma magenta
+	keyword whole poll_file magenta
+	keyword whole poll_fd magenta
+	keyword whole pointer_to_string magenta
+	keyword whole pointer_to_array magenta
+	keyword whole pointer_from_objref magenta
+	keyword whole pointer magenta
+	keyword whole pmap magenta
+	keyword whole plan_rfft magenta
+	keyword whole plan_irfft magenta
+	keyword whole plan_ifft! brightmagenta
+	keyword whole plan_ifft magenta
+	keyword whole plan_idct! brightmagenta
+	keyword whole plan_idct magenta
+	keyword whole plan_fft! brightmagenta
+	keyword whole plan_fft magenta
+	keyword whole plan_dct! brightmagenta
+	keyword whole plan_dct magenta
+	keyword whole plan_brfft magenta
+	keyword whole plan_bfft! brightmagenta
+	keyword whole plan_bfft magenta
+	keyword whole pipeline magenta
+	keyword whole pipe magenta
+	keyword whole pinv magenta
+	keyword whole pi magenta
+	keyword whole permutedims! brightmagenta
+	keyword whole permutedims magenta
+	keyword whole permute! brightmagenta
+	keyword whole permutations magenta
+	keyword whole percentile magenta
+	keyword whole percent_change magenta
+	keyword whole peek magenta
+	keyword whole peakflops magenta
+	keyword whole pdata magenta
+	keyword whole path magenta
+	keyword whole pastendsemitoken magenta
+	keyword whole partitions magenta
+	keyword whole partitionby magenta
+	keyword whole partition magenta
+	keyword whole parseip magenta
+	keyword whole parseint magenta
+	keyword whole parsefloat magenta
+	keyword whole parse magenta
+	keyword whole parity magenta
+	keyword whole parentindexes magenta
+	keyword whole parent magenta
+	keyword whole pairwise! brightmagenta
+	keyword whole pairwise magenta
+	keyword whole pad_outer magenta
+	keyword whole pad_inner magenta
+	keyword whole padNA magenta
+	keyword whole pad magenta
+	keyword whole packdeepcopy magenta
+	keyword whole packcopy magenta
+	keyword whole pacf! brightmagenta
+	keyword whole pacf magenta
+	keyword whole ordschur! brightmagenta
+	keyword whole ordschur magenta
+	keyword whole ordinalrank magenta
+	keyword whole orderobject magenta
+	keyword whole order magenta
+	keyword whole operm magenta
+	keyword whole open magenta
+	keyword whole ones magenta
+	keyword whole one magenta
+	keyword whole oftype magenta
+	keyword whole oct magenta
+	keyword whole object_id magenta
+	keyword whole nzrange magenta
+	keyword whole nworkers magenta
+	keyword whole num_groups magenta
+	keyword whole num_blocks magenta
+	keyword whole num2hex magenta
+	keyword whole num magenta
+	keyword whole nullspace magenta
+	keyword whole nullable! brightmagenta
+	keyword whole null magenta
+	keyword whole ntuple magenta
+	keyword whole ntoh magenta
+	keyword whole nthperm! brightmagenta
+	keyword whole nthperm magenta
+	keyword whole nsmallest magenta
+	keyword whole nrow magenta
+	keyword whole nquantile magenta
+	keyword whole nprocs magenta
+	keyword whole now magenta
+	keyword whole notify magenta
+	keyword whole nothing magenta
+	keyword whole normpath magenta
+	keyword whole normalize_string magenta
+	keyword whole norm magenta
+	keyword whole nonzeros magenta
+	keyword whole nonunique magenta
+	keyword whole nobs magenta
+	keyword whole nnz magenta
+	keyword whole nlargest magenta
+	keyword whole nil magenta
+	keyword whole nfields magenta
+	keyword whole nextprod magenta
+	keyword whole nextpow2 magenta
+	keyword whole nextpow magenta
+	keyword whole nextind magenta
+	keyword whole nextfloat magenta
+	keyword whole next magenta
+	keyword whole ndims magenta
+	keyword whole ndigits magenta
+	keyword whole ncol magenta
+	keyword whole nb_available magenta
+	keyword whole nan magenta
+	keyword whole names! brightmagenta
+	keyword whole names magenta
+	keyword whole myid magenta
+	keyword whole mv magenta
+	keyword whole mutable_binary_minheap magenta
+	keyword whole mutable_binary_maxheap magenta
+	keyword whole muladd magenta
+	keyword whole mtime magenta
+	keyword whole msync magenta
+	keyword whole msd magenta
+	keyword whole monthname magenta
+	keyword whole monthday magenta
+	keyword whole monthabbr magenta
+	keyword whole month magenta
+	keyword whole moment magenta
+	keyword whole module_parent magenta
+	keyword whole module_name magenta
+	keyword whole module magenta
+	keyword whole modf magenta
+	keyword whole modes magenta
+	keyword whole model_response magenta
+	keyword whole mode magenta
+	keyword whole mod2pi magenta
+	keyword whole mod1 magenta
+	keyword whole mod magenta
+	keyword whole mmap_bitarray magenta
+	keyword whole mmap_array magenta
+	keyword whole mmap magenta
+	keyword whole mm magenta
+	keyword whole mktempdir magenta
+	keyword whole mktemp magenta
+	keyword whole mkpath magenta
+	keyword whole mkdir magenta
+	keyword whole minwidth magenta
+	keyword whole minute magenta
+	keyword whole minmax magenta
+	keyword whole minkowski magenta
+	keyword whole minimum! brightmagenta
+	keyword whole minimum magenta
+	keyword whole minheight magenta
+	keyword whole minabs! brightmagenta
+	keyword whole minabs magenta
+	keyword whole min magenta
+	keyword whole mimewritable magenta
+	keyword whole millisecond magenta
+	keyword whole midpoints magenta
+	keyword whole middle magenta
+	keyword whole methodswith magenta
+	keyword whole methods magenta
+	keyword whole method_exists magenta
+	keyword whole merge! brightmagenta
+	keyword whole merge magenta
+	keyword whole meltdf magenta
+	keyword whole melt magenta
+	keyword whole median! brightmagenta
+	keyword whole median magenta
+	keyword whole meanad magenta
+	keyword whole mean_and_var magenta
+	keyword whole mean_and_std magenta
+	keyword whole mean_and_cov magenta
+	keyword whole mean! brightmagenta
+	keyword whole mean magenta
+	keyword whole maxintfloat magenta
+	keyword whole maximum! brightmagenta
+	keyword whole maximum magenta
+	keyword whole maxad magenta
+	keyword whole maxabs! brightmagenta
+	keyword whole maxabs magenta
+	keyword whole max_text_extents magenta
+	keyword whole max magenta
+	keyword whole matchall magenta
+	keyword whole match magenta
+	keyword whole mark magenta
+	keyword whole mapslices magenta
+	keyword whole mapreducedim magenta
+	keyword whole mapreduce magenta
+	keyword whole mapfoldr magenta
+	keyword whole mapfoldl magenta
+	keyword whole map! brightmagenta
+	keyword whole map magenta
+	keyword whole manage magenta
+	keyword whole mahalanobis magenta
+	keyword whole mad magenta
+	keyword whole macroexpand magenta
+	keyword whole macro magenta
+	keyword whole lyap magenta
+	keyword whole luva magenta
+	keyword whole lufact! brightmagenta
+	keyword whole lufact magenta
+	keyword whole lu magenta
+	keyword whole ltoh magenta
+	keyword whole lstrip magenta
+	keyword whole lstat magenta
+	keyword whole lpad magenta
+	keyword whole lowercase magenta
+	keyword whole logsumexp magenta
+	keyword whole logspace magenta
+	keyword whole logm magenta
+	keyword whole loglikelihood magenta
+	keyword whole logit magenta
+	keyword whole logistic magenta
+	keyword whole logdet magenta
+	keyword whole logabsdet magenta
+	keyword whole log2 magenta
+	keyword whole log1p magenta
+	keyword whole log10 magenta
+	keyword whole log magenta
+	keyword whole lock magenta
+	keyword whole localindexes magenta
+	keyword whole local magenta
+	keyword whole lmsa magenta
+	keyword whole listenany magenta
+	keyword whole listen magenta
+	keyword whole list magenta
+	keyword whole linspace magenta
+	keyword whole linreg magenta
+	keyword whole linrange magenta
+	keyword whole linewidth magenta
+	keyword whole line magenta
+	keyword whole lgamma magenta
+	keyword whole lfact magenta
+	keyword whole lexless magenta
+	keyword whole lexcmp magenta
+	keyword whole levicivita magenta
+	keyword whole levelsmap magenta
+	keyword whole levels magenta
+	keyword whole let magenta
+	keyword whole less magenta
+	keyword whole length magenta
+	keyword whole leading_zeros magenta
+	keyword whole leading_ones magenta
+	keyword whole ldltfact! brightmagenta
+	keyword whole ldltfact magenta
+	keyword whole ldexp magenta
+	keyword whole lcm magenta
+	keyword whole lchuva magenta
+	keyword whole lchaba magenta
+	keyword whole lcfirst magenta
+	keyword whole lbeta magenta
+	keyword whole lazymap magenta
+	keyword whole launch magenta
+	keyword whole lastdayofyear magenta
+	keyword whole lastdayofweek magenta
+	keyword whole lastdayofquarter magenta
+	keyword whole lastdayofmonth magenta
+	keyword whole last magenta
+	keyword whole laba magenta
+	keyword whole kurtosis magenta
+	keyword whole kron magenta
+	keyword whole kldivergence magenta
+	keyword whole kl_divergence magenta
+	keyword whole kill magenta
+	keyword whole keytype magenta
+	keyword whole keys_with_prefix magenta
+	keyword whole keys magenta
+	keyword whole julian2datetime magenta
+	keyword whole jsinclude magenta
+	keyword whole jscall magenta
+	keyword whole js_divergence magenta
+	keyword whole joinpath magenta
+	keyword whole join magenta
+	keyword whole itrunc magenta
+	keyword whole iterate magenta
+	keyword whole iter magenta
+	keyword whole isxdigit red
+	keyword whole iswritable red
+	keyword whole isvalid red
+	keyword whole isupper red
+	keyword whole istriu red
+	keyword whole istril red
+	keyword whole istext red
+	keyword whole istaskstarted red
+	keyword whole istaskdone red
+	keyword whole issym red
+	keyword whole issubtype red
+	keyword whole issubset red
+	keyword whole issubnormal red
+	keyword whole issticky red
+	keyword whole issparse red
+	keyword whole isspace red
+	keyword whole issorted red
+	keyword whole issocket red
+	keyword whole issetuid red
+	keyword whole issetgid red
+	keyword whole isreal red
+	keyword whole isready red
+	keyword whole isreadonly red
+	keyword whole isreadable red
+	keyword whole isqrt red
+	keyword whole ispunct red
+	keyword whole isprint red
+	keyword whole isprime red
+	keyword whole ispow2 red
+	keyword whole isposdef! brightmagenta
+	keyword whole isposdef red
+	keyword whole isperm red
+	keyword whole ispath red
+	keyword whole isopen red
+	keyword whole isodd red
+	keyword whole isnumber red
+	keyword whole isnull red
+	keyword whole isnan red
+	keyword whole isna red
+	keyword whole ismount red
+	keyword whole ismatch red
+	keyword whole ismarked red
+	keyword whole islower red
+	keyword whole islink red
+	keyword whole isless red
+	keyword whole isleapyear red
+	keyword whole isleaftype red
+	keyword whole isinteractive red
+	keyword whole isinteger red
+	keyword whole isinf red
+	keyword whole isimmutable red
+	keyword whole ishermitian red
+	keyword whole isgraph red
+	keyword whole isgeneric red
+	keyword whole isfinite red
+	keyword whole isfile red
+	keyword whole isfifo red
+	keyword whole isexecutable red
+	keyword whole iseven red
+	keyword whole isequal red
+	keyword whole isempty red
+	keyword whole iseltype red
+	keyword whole isdirpath red
+	keyword whole isdir red
+	keyword whole isdigit red
+	keyword whole isdiag red
+	keyword whole isdefined red
+	keyword whole iscontiguous red
+	keyword whole isconst red
+	keyword whole iscntrl red
+	keyword whole ischardev red
+	keyword whole isblockdev red
+	keyword whole isblank red
+	keyword whole isbits red
+	keyword whole isassigned red
+	keyword whole isascii red
+	keyword whole isapprox red
+	keyword whole isalpha red
+	keyword whole isalnum red
+	keyword whole isabspath red
+	keyword whole isa red
+	keyword whole is_valid_utf8 red
+	keyword whole is_valid_utf32 red
+	keyword whole is_valid_utf16 red
+	keyword whole is_valid_char red
+	keyword whole is_valid_ascii red
+	keyword whole is_assigned_char red
+	keyword whole is red
+	keyword whole iround magenta
+	keyword whole irfft magenta
+	keyword whole iqr magenta
+	keyword whole ipermutedims magenta
+	keyword whole ipermute! brightmagenta
+	keyword whole invsoftplus magenta
+	keyword whole invperm magenta
+	keyword whole invoke magenta
+	keyword whole invmod magenta
+	keyword whole inverse_rle magenta
+	keyword whole invdigamma magenta
+	keyword whole inv magenta
+	keyword whole introspect magenta
+	keyword whole intersect! brightmagenta
+	keyword whole intersect magenta
+	keyword whole interrupt magenta
+	keyword whole interpose magenta
+	keyword whole integer magenta
+	keyword whole int8 magenta
+	keyword whole int64 magenta
+	keyword whole int32 magenta
+	keyword whole int16 magenta
+	keyword whole int128 magenta
+	keyword whole int magenta
+	keyword whole instances magenta
+	keyword whole insert! brightmagenta
+	keyword whole init_worker magenta
+	keyword whole init magenta
+	keyword whole info magenta
+	keyword whole inf magenta
+	keyword whole indmin magenta
+	keyword whole indmax magenta
+	keyword whole indicatormat magenta
+	keyword whole indexpids magenta
+	keyword whole indexmap magenta
+	keyword whole indexin magenta
+	keyword whole ind2sub! brightmagenta
+	keyword whole ind2sub magenta
+	keyword whole ind2chr magenta
+	keyword whole inclusive magenta
+	keyword whole include_string magenta
+	keyword whole include_dependency magenta
+	keyword whole include magenta
+	keyword whole inch magenta
+	keyword whole in_same_set magenta
+	keyword whole in red
+	keyword whole importall magenta
+	keyword whole import magenta
+	keyword whole immutable magenta
+	keyword whole imag magenta
+	keyword whole im magenta
+	keyword whole ignorestatus magenta
+	keyword whole ifloor magenta
+	keyword whole ifftshift magenta
+	keyword whole ifft! brightmagenta
+	keyword whole ifft magenta
+	keyword whole ifelse magenta
+	keyword whole if red
+	keyword whole identity magenta
+	keyword whole idct! brightmagenta
+	keyword whole idct magenta
+	keyword whole iceil magenta
+	keyword whole hypot magenta
+	keyword whole hvcat magenta
+	keyword whole hton magenta
+	keyword whole htol magenta
+	keyword whole hsva magenta
+	keyword whole hstack magenta
+	keyword whole hsla magenta
+	keyword whole hright magenta
+	keyword whole hour magenta
+	keyword whole homedir magenta
+	keyword whole hleft magenta
+	keyword whole histrange magenta
+	keyword whole hist2d! brightmagenta
+	keyword whole hist2d magenta
+	keyword whole hist! brightmagenta
+	keyword whole hist magenta
+	keyword whole hex2num magenta
+	keyword whole hex2bytes magenta
+	keyword whole hex magenta
+	keyword whole hessfact! brightmagenta
+	keyword whole hessfact magenta
+	keyword whole hellinger magenta
+	keyword whole head magenta
+	keyword whole hcenter magenta
+	keyword whole hcat magenta
+	keyword whole haskey red
+	keyword whole hash magenta
+	keyword whole harmmean magenta
+	keyword whole hankelh2x magenta
+	keyword whole hankelh2 magenta
+	keyword whole hankelh1x magenta
+	keyword whole hankelh1 magenta
+	keyword whole hamming magenta
+	keyword whole gzwrite magenta
+	keyword whole gzungetc magenta
+	keyword whole gzread magenta
+	keyword whole gzputc magenta
+	keyword whole gzopen magenta
+	keyword whole gzgets magenta
+	keyword whole gzgetc magenta
+	keyword whole gzdopen magenta
+	keyword whole gzbuffer magenta
+	keyword whole groupby magenta
+	keyword whole gridstack magenta
 	keyword green green
 	keyword gray gray
-	keyword graphemes magenta
-	keyword gradient magenta
-	keyword gperm magenta
-	keyword golden magenta
-	keyword global magenta
-	keyword gl magenta
-	keyword gkldiv magenta
-	keyword givens magenta
-	keyword getpoolidx magenta
-	keyword getpid magenta
-	keyword getkey magenta
-	keyword getipaddr magenta
-	keyword getindex magenta
-	keyword gethostname magenta
-	keyword getfield magenta
-	keyword getaddrinfo magenta
-	keyword get_zero_subnormals magenta
-	keyword get_rounding magenta
-	keyword get_bigfloat_precision magenta
-	keyword get! brightmagenta
-	keyword get magenta
-	keyword geomean magenta
-	keyword gensym magenta
-	keyword gcdx magenta
-	keyword gcd magenta
-	keyword gc_enable magenta
-	keyword gc_disable magenta
+	keyword whole graphemes magenta
+	keyword whole gradient magenta
+	keyword whole gperm magenta
+	keyword whole golden magenta
+	keyword whole global magenta
+	keyword whole gl magenta
+	keyword whole gkldiv magenta
+	keyword whole givens magenta
+	keyword whole getpoolidx magenta
+	keyword whole getpid magenta
+	keyword whole getkey magenta
+	keyword whole getipaddr magenta
+	keyword whole getindex magenta
+	keyword whole gethostname magenta
+	keyword whole getfield magenta
+	keyword whole getaddrinfo magenta
+	keyword whole get_zero_subnormals magenta
+	keyword whole get_rounding magenta
+	keyword whole get_bigfloat_precision magenta
+	keyword whole get! brightmagenta
+	keyword whole get magenta
+	keyword whole geomean magenta
+	keyword whole gensym magenta
+	keyword whole gcdx magenta
+	keyword whole gcd magenta
+	keyword whole gc_enable magenta
+	keyword whole gc_disable magenta
 	keyword whole gc brightred
-	keyword gamma magenta
-	keyword functionlocs magenta
-	keyword functionloc magenta
-	keyword function magenta
-	keyword fullname magenta
-	keyword full magenta
-	keyword front magenta
-	keyword frexp magenta
-	keyword frequencies magenta
-	keyword foreach magenta
-	keyword for red
-	keyword fontsize magenta
-	keyword font magenta
-	keyword foldr magenta
-	keyword foldl magenta
-	keyword fma magenta
-	keyword flush_cstdio magenta
-	keyword flush magenta
-	keyword floor magenta
-	keyword float64_isvalid magenta
-	keyword float64 magenta
-	keyword float32_isvalid magenta
-	keyword float32 magenta
-	keyword float16 magenta
-	keyword float magenta
-	keyword flipud magenta
-	keyword flipsign magenta
-	keyword fliplr magenta
-	keyword flipdim magenta
-	keyword flipbits! brightmagenta
-	keyword fldmod magenta
-	keyword fld magenta
-	keyword flatten_view magenta
-	keyword flatten magenta
-	keyword fitted magenta
-	keyword fit! brightmagenta
-	keyword fit magenta
-	keyword firstdayofyear magenta
-	keyword firstdayofweek magenta
-	keyword firstdayofquarter magenta
-	keyword firstdayofmonth magenta
-	keyword first magenta
-	keyword findprev magenta
-	keyword findnz magenta
-	keyword findnext magenta
-	keyword findn magenta
-	keyword findmin magenta
-	keyword findmax magenta
-	keyword findlast magenta
-	keyword findin magenta
-	keyword findfirst magenta
-	keyword findat magenta
-	keyword find_root magenta
-	keyword find_library magenta
-	keyword find magenta
-	keyword finally magenta
-	keyword finalizer magenta
-	keyword finalize magenta
-	keyword filter! brightmagenta
-	keyword filter magenta
-	keyword filt! brightmagenta
-	keyword filt magenta
-	keyword fillopacity magenta
-	keyword fill! brightmagenta
-	keyword fill magenta
-	keyword filesize magenta
-	keyword filemode magenta
-	keyword fieldtype magenta
-	keyword fieldoffsets magenta
-	keyword fieldnames magenta
-	keyword fftshift magenta
-	keyword fft! brightmagenta
-	keyword fft magenta
-	keyword fetch magenta
-	keyword fdio magenta
-	keyword fd magenta
-	keyword falses magenta
-	keyword false magenta
-	keyword factorize magenta
-	keyword factorial magenta
-	keyword factor magenta
-	keyword eye magenta
-	keyword extrema magenta
-	keyword extract_all! brightmagenta
-	keyword export magenta
-	keyword exponent magenta
-	keyword expm1 magenta
-	keyword expm magenta
-	keyword expanduser magenta
-	keyword expand magenta
-	keyword exp2 magenta
-	keyword exp10 magenta
-	keyword exp magenta
-	keyword exit magenta
-	keyword exclusive magenta
-	keyword evaluate magenta
-	keyword evalfile magenta
-	keyword eval magenta
-	keyword eulergamma magenta
-	keyword euclidean magenta
-	keyword eu magenta
-	keyword etree magenta
-	keyword eta magenta
-	keyword escape_string magenta
-	keyword esc magenta
-	keyword error magenta
-	keyword errno magenta
-	keyword erfinv magenta
-	keyword erfi magenta
-	keyword erfcx magenta
-	keyword erfcinv magenta
-	keyword erfc magenta
-	keyword erf magenta
-	keyword eps magenta
-	keyword eof magenta
-	keyword enumerateall magenta
-	keyword enumerate magenta
-	keyword entropy magenta
-	keyword enqueue! brightmagenta
-	keyword endswith magenta
-	keyword endof magenta
-	keyword end red
-	keyword encode magenta
-	keyword empty! brightmagenta
-	keyword eltypes magenta
-	keyword eltype magenta
-	keyword elseif red
-	keyword else red
-	keyword ellipview magenta
-	keyword ellipse magenta
-	keyword eigvecs magenta
-	keyword eigvals! brightmagenta
-	keyword eigvals magenta
-	keyword eigs magenta
-	keyword eigmin magenta
-	keyword eigmax magenta
-	keyword eigfact! brightmagenta
-	keyword eigfact magenta
-	keyword eig magenta
-	keyword edit magenta
-	keyword ecdf magenta
-	keyword eachrow magenta
-	keyword eachmatch magenta
-	keyword eachline magenta
-	keyword eachindex magenta
-	keyword eachcol magenta
-	keyword each_replacena magenta
-	keyword each_replaceNA magenta
-	keyword each_failna magenta
-	keyword each_failNA magenta
-	keyword each_dropna magenta
-	keyword e magenta
-	keyword dump magenta
-	keyword dropwhile magenta
-	keyword dropna magenta
-	keyword droplast magenta
-	keyword drop magenta
-	keyword draw magenta
-	keyword download magenta
-	keyword dot magenta
-	keyword dorun magenta
-	keyword done magenta
-	keyword doall magenta
-	keyword do magenta
-	keyword dlsym_e magenta
-	keyword dlsym magenta
-	keyword dlopen_e magenta
-	keyword dlopen magenta
-	keyword dlclose magenta
-	keyword divrem magenta
-	keyword diverging_palette magenta
-	keyword div magenta
-	keyword distinguishable_colors magenta
-	keyword distinct magenta
-	keyword displayable magenta
-	keyword display magenta
-	keyword disable_sigint magenta
-	keyword dirname magenta
-	keyword din99oa magenta
-	keyword din99da magenta
-	keyword din99a magenta
-	keyword digits! brightmagenta
-	keyword digits magenta
-	keyword digamma magenta
-	keyword diff magenta
-	keyword diagview magenta
-	keyword diagm magenta
-	keyword diagind magenta
-	keyword diag magenta
-	keyword df_residual magenta
-	keyword deviance magenta
-	keyword deuteranopic magenta
-	keyword detach magenta
-	keyword det magenta
-	keyword deserialize magenta
-	keyword describe magenta
-	keyword deref_value magenta
-	keyword deref_key magenta
-	keyword deref magenta
-	keyword dequeue! brightmagenta
-	keyword deque magenta
-	keyword denserank magenta
-	keyword den magenta
-	keyword deleterows! brightmagenta
-	keyword deleteat! brightmagenta
-	keyword delete! brightmagenta
-	keyword deg2rad magenta
-	keyword deepcopy magenta
-	keyword deconv magenta
-	keyword decode magenta
-	keyword dec magenta
-	keyword dct! brightmagenta
-	keyword dct magenta
-	keyword daysofweekinmonth magenta
-	keyword daysinyear magenta
-	keyword daysinmonth magenta
-	keyword dayofyear magenta
-	keyword dayofweekofmonth magenta
-	keyword dayofweek magenta
-	keyword dayofquarter magenta
-	keyword dayofmonth magenta
-	keyword dayname magenta
-	keyword dayabbr magenta
-	keyword day magenta
-	keyword dawson magenta
-	keyword datetime2unix magenta
-	keyword datetime2rata magenta
-	keyword datetime2julian magenta
-	keyword data magenta
-	keyword d magenta
-	keyword cycle magenta
-	keyword cy magenta
-	keyword cx magenta
-	keyword cut magenta
-	keyword curve magenta
-	keyword current_task magenta
-	keyword current_module magenta
-	keyword cumsum_kbn magenta
-	keyword cumsum! brightmagenta
-	keyword cumsum magenta
-	keyword cumprod! brightmagenta
-	keyword cumprod magenta
-	keyword cummin magenta
-	keyword cummax magenta
-	keyword ctxpromise magenta
-	keyword ctranspose! brightmagenta
-	keyword ctranspose magenta
-	keyword ctime magenta
-	keyword csch magenta
-	keyword cscd magenta
-	keyword csc magenta
-	keyword crossentropy magenta
-	keyword crosscov! brightmagenta
-	keyword crosscov magenta
-	keyword crosscor! brightmagenta
-	keyword crosscor magenta
-	keyword cross magenta
-	keyword cp magenta
-	keyword cov magenta
-	keyword counts magenta
-	keyword countnz magenta
-	keyword countne magenta
-	keyword countmap magenta
-	keyword countlines magenta
-	keyword countfrom magenta
-	keyword counter magenta
-	keyword counteq magenta
-	keyword count_zeros magenta
-	keyword count_ones magenta
-	keyword count magenta
-	keyword coth magenta
-	keyword cotd magenta
-	keyword cot magenta
-	keyword cospi magenta
-	keyword cosine_dist magenta
-	keyword cosh magenta
-	keyword cosd magenta
-	keyword cosc magenta
-	keyword cos magenta
-	keyword corspearman magenta
-	keyword corr_dist magenta
-	keyword corkendall magenta
-	keyword cor magenta
-	keyword copysign magenta
-	keyword copy! brightmagenta
-	keyword copy magenta
-	keyword convert magenta
-	keyword conv2 magenta
-	keyword conv magenta
-	keyword continue magenta
-	keyword contiguousrank magenta
-	keyword contiguous_view magenta
-	keyword context magenta
-	keyword contains magenta
-	keyword consume magenta
-	keyword constantly magenta
-	keyword const magenta
-	keyword cons magenta
-	keyword connect magenta
-	keyword conj! brightmagenta
-	keyword conj magenta
-	keyword confint magenta
-	keyword condskeel magenta
-	keyword cond magenta
-	keyword concat magenta
-	keyword compose! brightmagenta
-	keyword compose magenta
-	keyword complex64 magenta
-	keyword complex32 magenta
-	keyword complex128 magenta
-	keyword complex magenta
-	keyword completions magenta
-	keyword complete_cases! brightmagenta
-	keyword complete_cases magenta
-	keyword complete magenta
-	keyword complement! brightmagenta
-	keyword complement magenta
-	keyword competerank magenta
-	keyword compare magenta
-	keyword compact magenta
-	keyword comp3 magenta
-	keyword comp2 magenta
-	keyword comp1 magenta
-	keyword combine magenta
-	keyword combinations magenta
-	keyword colwise! brightmagenta
-	keyword colwise magenta
-	keyword colormatch magenta
-	keyword colormap magenta
-	keyword colordiff magenta
-	keyword coloralpha magenta
-	keyword color_type magenta
-	keyword color magenta
-	keyword colon magenta
-	keyword collect magenta
-	keyword coeftable magenta
-	keyword coefnames magenta
-	keyword coef magenta
-	keyword code_warntype magenta
-	keyword code_typed magenta
-	keyword code_native magenta
-	keyword code_lowered magenta
-	keyword code_llvm magenta
-	keyword cmp magenta
-	keyword cm magenta
-	keyword close magenta
-	keyword clipboard magenta
-	keyword clip magenta
-	keyword cld magenta
-	keyword classified_sets magenta
-	keyword classified_lists magenta
-	keyword classified_counters magenta
-	keyword clamp! brightmagenta
-	keyword clamp magenta
-	keyword cityblock magenta
-	keyword cis magenta
-	keyword circshift magenta
-	keyword circle magenta
-	keyword cie_color_match magenta
-	keyword chr2ind magenta
-	keyword chop magenta
-	keyword chomp magenta
-	keyword cholfact! brightmagenta
-	keyword cholfact magenta
-	keyword chol magenta
-	keyword chmod magenta
-	keyword chisq_dist magenta
-	keyword checkbounds magenta
-	keyword chebyshev magenta
-	keyword charwidth magenta
-	keyword char magenta
-	keyword cglobal magenta
-	keyword cfunction magenta
-	keyword cell magenta
-	keyword ceil magenta
-	keyword cd magenta
-	keyword ccolor magenta
-	keyword ccall magenta
-	keyword cbrt magenta
-	keyword catch_backtrace magenta
-	keyword catch magenta
-	keyword catalan magenta
-	keyword cat magenta
-	keyword cartesianmap magenta
-	keyword capacity magenta
-	keyword call magenta
-	keyword c_realloc magenta
-	keyword c_malloc magenta
-	keyword c_free magenta
-	keyword c_calloc magenta
-	keyword c magenta
-	keyword bytestring magenta
-	keyword bytes2hex magenta
-	keyword by magenta
-	keyword bswap magenta
-	keyword broadcast_setindex! brightmagenta
-	keyword broadcast_getindex magenta
-	keyword broadcast_function magenta
-	keyword broadcast!_function magenta
-	keyword broadcast! brightmagenta
-	keyword broadcast magenta
-	keyword brfft magenta
-	keyword break magenta
-	keyword boundingbox magenta
-	keyword bool magenta
-	keyword blue magenta
-	keyword blkdiag magenta
-	keyword blas_set_num_threads magenta
-	keyword bkfact! brightmagenta
-	keyword bkfact magenta
-	keyword bitunpack magenta
-	keyword bitstype magenta
-	keyword bits magenta
-	keyword bitrand magenta
-	keyword bitpack magenta
-	keyword bitmap magenta
-	keyword bitbroadcast magenta
-	keyword binomial magenta
-	keyword bind magenta
-	keyword binary_minheap magenta
-	keyword binary_maxheap magenta
-	keyword bin magenta
-	keyword big magenta
-	keyword bhattacharyya magenta
-	keyword bfft! brightmagenta
-	keyword bfft magenta
-	keyword beta magenta
-	keyword besselyx magenta
-	keyword bessely1 magenta
-	keyword bessely0 magenta
-	keyword bessely magenta
-	keyword besselkx magenta
-	keyword besselk magenta
-	keyword besseljx magenta
-	keyword besselj1 magenta
-	keyword besselj0 magenta
-	keyword besselj magenta
-	keyword besselix magenta
-	keyword besseli magenta
-	keyword besselhx magenta
-	keyword besselh magenta
-	keyword beginswith magenta
-	keyword begin magenta
-	keyword beforestartsemitoken magenta
-	keyword basename magenta
-	keyword base_colorant_type magenta
-	keyword base_color_type magenta
-	keyword base64encode magenta
-	keyword base64decode magenta
-	keyword base64 magenta
-	keyword base magenta
-	keyword baremodule magenta
-	keyword backtrace magenta
-	keyword back magenta
-	keyword autocov! brightmagenta
-	keyword autocov magenta
-	keyword autocor! brightmagenta
-	keyword autocor magenta
-	keyword atreplinit magenta
-	keyword atexit magenta
-	keyword atanh magenta
-	keyword atand magenta
-	keyword atan2 magenta
-	keyword atan magenta
-	keyword assert magenta
-	keyword asinh magenta
-	keyword asind magenta
-	keyword asin magenta
-	keyword asech magenta
-	keyword asecd magenta
-	keyword asec magenta
-	keyword ascii magenta
-	keyword array magenta
-	keyword argb32 magenta
-	keyword apropos magenta
-	keyword apply magenta
-	keyword applicable magenta
-	keyword append! brightmagenta
-	keyword anyna magenta
-	keyword any! brightmagenta
-	keyword any magenta
-	keyword ans magenta
-	keyword angle magenta
-	keyword alphacolor magenta
-	keyword alpha magenta
-	keyword allna magenta
-	keyword allcompletions magenta
-	keyword all! brightmagenta
-	keyword all magenta
-	keyword airyx magenta
-	keyword airyprime magenta
-	keyword airybiprime magenta
-	keyword airybi magenta
-	keyword airyaiprime magenta
-	keyword airyai magenta
-	keyword airy magenta
-	keyword aggregate magenta
-	keyword advance magenta
-	keyword adjust magenta
-	keyword addtopath! brightmagenta
-	keyword addprocs magenta
-	keyword addcounts! brightmagenta
-	keyword add! brightmagenta
-	keyword acsch magenta
-	keyword acscd magenta
-	keyword acsc magenta
-	keyword acoth magenta
-	keyword acotd magenta
-	keyword acot magenta
-	keyword acosh magenta
-	keyword acosd magenta
-	keyword acos magenta
-	keyword accept magenta
-	keyword abstract magenta
-	keyword abspath magenta
-	keyword abs2 magenta
-	keyword abs magenta
+	keyword whole gamma magenta
+	keyword whole functionlocs magenta
+	keyword whole functionloc magenta
+	keyword whole function magenta
+	keyword whole fullname magenta
+	keyword whole full magenta
+	keyword whole front magenta
+	keyword whole frexp magenta
+	keyword whole frequencies magenta
+	keyword whole foreach magenta
+	keyword whole for red
+	keyword whole fontsize magenta
+	keyword whole font magenta
+	keyword whole foldr magenta
+	keyword whole foldl magenta
+	keyword whole fma magenta
+	keyword whole flush_cstdio magenta
+	keyword whole flush magenta
+	keyword whole floor magenta
+	keyword whole float64_isvalid magenta
+	keyword whole float64 magenta
+	keyword whole float32_isvalid magenta
+	keyword whole float32 magenta
+	keyword whole float16 magenta
+	keyword whole float magenta
+	keyword whole flipud magenta
+	keyword whole flipsign magenta
+	keyword whole fliplr magenta
+	keyword whole flipdim magenta
+	keyword whole flipbits! brightmagenta
+	keyword whole fldmod magenta
+	keyword whole fld magenta
+	keyword whole flatten_view magenta
+	keyword whole flatten magenta
+	keyword whole fitted magenta
+	keyword whole fit! brightmagenta
+	keyword whole fit magenta
+	keyword whole firstdayofyear magenta
+	keyword whole firstdayofweek magenta
+	keyword whole firstdayofquarter magenta
+	keyword whole firstdayofmonth magenta
+	keyword whole first magenta
+	keyword whole findprev magenta
+	keyword whole findnz magenta
+	keyword whole findnext magenta
+	keyword whole findn magenta
+	keyword whole findmin magenta
+	keyword whole findmax magenta
+	keyword whole findlast magenta
+	keyword whole findin magenta
+	keyword whole findfirst magenta
+	keyword whole findat magenta
+	keyword whole find_root magenta
+	keyword whole find_library magenta
+	keyword whole find magenta
+	keyword whole finally magenta
+	keyword whole finalizer magenta
+	keyword whole finalize magenta
+	keyword whole filter! brightmagenta
+	keyword whole filter magenta
+	keyword whole filt! brightmagenta
+	keyword whole filt magenta
+	keyword whole fillopacity magenta
+	keyword whole fill! brightmagenta
+	keyword whole fill magenta
+	keyword whole filesize magenta
+	keyword whole filemode magenta
+	keyword whole fieldtype magenta
+	keyword whole fieldoffsets magenta
+	keyword whole fieldnames magenta
+	keyword whole fftshift magenta
+	keyword whole fft! brightmagenta
+	keyword whole fft magenta
+	keyword whole fetch magenta
+	keyword whole fdio magenta
+	keyword whole fd magenta
+	keyword whole falses magenta
+	keyword whole false magenta
+	keyword whole factorize magenta
+	keyword whole factorial magenta
+	keyword whole factor magenta
+	keyword whole eye magenta
+	keyword whole extrema magenta
+	keyword whole extract_all! brightmagenta
+	keyword whole export magenta
+	keyword whole exponent magenta
+	keyword whole expm1 magenta
+	keyword whole expm magenta
+	keyword whole expanduser magenta
+	keyword whole expand magenta
+	keyword whole exp2 magenta
+	keyword whole exp10 magenta
+	keyword whole exp magenta
+	keyword whole exit magenta
+	keyword whole exclusive magenta
+	keyword whole evaluate magenta
+	keyword whole evalfile magenta
+	keyword whole eval magenta
+	keyword whole eulergamma magenta
+	keyword whole euclidean magenta
+	keyword whole eu magenta
+	keyword whole etree magenta
+	keyword whole eta magenta
+	keyword whole escape_string magenta
+	keyword whole esc magenta
+	keyword whole error magenta
+	keyword whole errno magenta
+	keyword whole erfinv magenta
+	keyword whole erfi magenta
+	keyword whole erfcx magenta
+	keyword whole erfcinv magenta
+	keyword whole erfc magenta
+	keyword whole erf magenta
+	keyword whole eps magenta
+	keyword whole eof magenta
+	keyword whole enumerateall magenta
+	keyword whole enumerate magenta
+	keyword whole entropy magenta
+	keyword whole enqueue! brightmagenta
+	keyword whole endswith magenta
+	keyword whole endof magenta
+	keyword whole end red
+	keyword whole encode magenta
+	keyword whole empty! brightmagenta
+	keyword whole eltypes magenta
+	keyword whole eltype magenta
+	keyword whole elseif red
+	keyword whole else red
+	keyword whole ellipview magenta
+	keyword whole ellipse magenta
+	keyword whole eigvecs magenta
+	keyword whole eigvals! brightmagenta
+	keyword whole eigvals magenta
+	keyword whole eigs magenta
+	keyword whole eigmin magenta
+	keyword whole eigmax magenta
+	keyword whole eigfact! brightmagenta
+	keyword whole eigfact magenta
+	keyword whole eig magenta
+	keyword whole edit magenta
+	keyword whole ecdf magenta
+	keyword whole eachrow magenta
+	keyword whole eachmatch magenta
+	keyword whole eachline magenta
+	keyword whole eachindex magenta
+	keyword whole eachcol magenta
+	keyword whole each_replacena magenta
+	keyword whole each_replaceNA magenta
+	keyword whole each_failna magenta
+	keyword whole each_failNA magenta
+	keyword whole each_dropna magenta
+	keyword whole dump magenta
+	keyword whole dropwhile magenta
+	keyword whole dropna magenta
+	keyword whole droplast magenta
+	keyword whole drop magenta
+	keyword whole draw magenta
+	keyword whole download magenta
+	keyword whole dot magenta
+	keyword whole dorun magenta
+	keyword whole done magenta
+	keyword whole doall magenta
+	keyword whole do magenta
+	keyword whole dlsym_e magenta
+	keyword whole dlsym magenta
+	keyword whole dlopen_e magenta
+	keyword whole dlopen magenta
+	keyword whole dlclose magenta
+	keyword whole divrem magenta
+	keyword whole diverging_palette magenta
+	keyword whole div magenta
+	keyword whole distinguishable_colors magenta
+	keyword whole distinct magenta
+	keyword whole displayable magenta
+	keyword whole display magenta
+	keyword whole disable_sigint magenta
+	keyword whole dirname magenta
+	keyword whole din99oa magenta
+	keyword whole din99da magenta
+	keyword whole din99a magenta
+	keyword whole digits! brightmagenta
+	keyword whole digits magenta
+	keyword whole digamma magenta
+	keyword whole diff magenta
+	keyword whole diagview magenta
+	keyword whole diagm magenta
+	keyword whole diagind magenta
+	keyword whole diag magenta
+	keyword whole df_residual magenta
+	keyword whole deviance magenta
+	keyword whole deuteranopic magenta
+	keyword whole detach magenta
+	keyword whole det magenta
+	keyword whole deserialize magenta
+	keyword whole describe magenta
+	keyword whole deref_value magenta
+	keyword whole deref_key magenta
+	keyword whole deref magenta
+	keyword whole dequeue! brightmagenta
+	keyword whole deque magenta
+	keyword whole denserank magenta
+	keyword whole den magenta
+	keyword whole deleterows! brightmagenta
+	keyword whole deleteat! brightmagenta
+	keyword whole delete! brightmagenta
+	keyword whole deg2rad magenta
+	keyword whole deepcopy magenta
+	keyword whole deconv magenta
+	keyword whole decode magenta
+	keyword whole dec magenta
+	keyword whole dct! brightmagenta
+	keyword whole dct magenta
+	keyword whole daysofweekinmonth magenta
+	keyword whole daysinyear magenta
+	keyword whole daysinmonth magenta
+	keyword whole dayofyear magenta
+	keyword whole dayofweekofmonth magenta
+	keyword whole dayofweek magenta
+	keyword whole dayofquarter magenta
+	keyword whole dayofmonth magenta
+	keyword whole dayname magenta
+	keyword whole dayabbr magenta
+	keyword whole day magenta
+	keyword whole dawson magenta
+	keyword whole datetime2unix magenta
+	keyword whole datetime2rata magenta
+	keyword whole datetime2julian magenta
+	keyword whole data magenta
+	keyword whole cycle magenta
+	keyword whole cy magenta
+	keyword whole cx magenta
+	keyword whole cut magenta
+	keyword whole curve magenta
+	keyword whole current_task magenta
+	keyword whole current_module magenta
+	keyword whole cumsum_kbn magenta
+	keyword whole cumsum! brightmagenta
+	keyword whole cumsum magenta
+	keyword whole cumprod! brightmagenta
+	keyword whole cumprod magenta
+	keyword whole cummin magenta
+	keyword whole cummax magenta
+	keyword whole ctxpromise magenta
+	keyword whole ctranspose! brightmagenta
+	keyword whole ctranspose magenta
+	keyword whole ctime magenta
+	keyword whole csch magenta
+	keyword whole cscd magenta
+	keyword whole csc magenta
+	keyword whole crossentropy magenta
+	keyword whole crosscov! brightmagenta
+	keyword whole crosscov magenta
+	keyword whole crosscor! brightmagenta
+	keyword whole crosscor magenta
+	keyword whole cross magenta
+	keyword whole cp magenta
+	keyword whole cov magenta
+	keyword whole counts magenta
+	keyword whole countnz magenta
+	keyword whole countne magenta
+	keyword whole countmap magenta
+	keyword whole countlines magenta
+	keyword whole countfrom magenta
+	keyword whole counter magenta
+	keyword whole counteq magenta
+	keyword whole count_zeros magenta
+	keyword whole count_ones magenta
+	keyword whole count magenta
+	keyword whole coth magenta
+	keyword whole cotd magenta
+	keyword whole cot magenta
+	keyword whole cospi magenta
+	keyword whole cosine_dist magenta
+	keyword whole cosh magenta
+	keyword whole cosd magenta
+	keyword whole cosc magenta
+	keyword whole cos magenta
+	keyword whole corspearman magenta
+	keyword whole corr_dist magenta
+	keyword whole corkendall magenta
+	keyword whole cor magenta
+	keyword whole copysign magenta
+	keyword whole copy! brightmagenta
+	keyword whole copy magenta
+	keyword whole convert magenta
+	keyword whole conv2 magenta
+	keyword whole conv magenta
+	keyword whole continue magenta
+	keyword whole contiguousrank magenta
+	keyword whole contiguous_view magenta
+	keyword whole context magenta
+	keyword whole contains magenta
+	keyword whole consume magenta
+	keyword whole constantly magenta
+	keyword whole const magenta
+	keyword whole cons magenta
+	keyword whole connect magenta
+	keyword whole conj! brightmagenta
+	keyword whole conj magenta
+	keyword whole confint magenta
+	keyword whole condskeel magenta
+	keyword whole cond magenta
+	keyword whole concat magenta
+	keyword whole compose! brightmagenta
+	keyword whole compose magenta
+	keyword whole complex64 magenta
+	keyword whole complex32 magenta
+	keyword whole complex128 magenta
+	keyword whole complex magenta
+	keyword whole completions magenta
+	keyword whole complete_cases! brightmagenta
+	keyword whole complete_cases magenta
+	keyword whole complete magenta
+	keyword whole complement! brightmagenta
+	keyword whole complement magenta
+	keyword whole competerank magenta
+	keyword whole compare magenta
+	keyword whole compact magenta
+	keyword whole comp3 magenta
+	keyword whole comp2 magenta
+	keyword whole comp1 magenta
+	keyword whole combine magenta
+	keyword whole combinations magenta
+	keyword whole colwise! brightmagenta
+	keyword whole colwise magenta
+	keyword whole colormatch magenta
+	keyword whole colormap magenta
+	keyword whole colordiff magenta
+	keyword whole coloralpha magenta
+	keyword whole color_type magenta
+	keyword whole color magenta
+	keyword whole colon magenta
+	keyword whole collect magenta
+	keyword whole coeftable magenta
+	keyword whole coefnames magenta
+	keyword whole coef magenta
+	keyword whole code_warntype magenta
+	keyword whole code_typed magenta
+	keyword whole code_native magenta
+	keyword whole code_lowered magenta
+	keyword whole code_llvm magenta
+	keyword whole cmp magenta
+	keyword whole cm magenta
+	keyword whole close magenta
+	keyword whole clipboard magenta
+	keyword whole clip magenta
+	keyword whole cld magenta
+	keyword whole classified_sets magenta
+	keyword whole classified_lists magenta
+	keyword whole classified_counters magenta
+	keyword whole clamp! brightmagenta
+	keyword whole clamp magenta
+	keyword whole cityblock magenta
+	keyword whole cis magenta
+	keyword whole circshift magenta
+	keyword whole circle magenta
+	keyword whole cie_color_match magenta
+	keyword whole chr2ind magenta
+	keyword whole chop magenta
+	keyword whole chomp magenta
+	keyword whole cholfact! brightmagenta
+	keyword whole cholfact magenta
+	keyword whole chol magenta
+	keyword whole chmod magenta
+	keyword whole chisq_dist magenta
+	keyword whole checkbounds magenta
+	keyword whole chebyshev magenta
+	keyword whole charwidth magenta
+	keyword whole char magenta
+	keyword whole cglobal magenta
+	keyword whole cfunction magenta
+	keyword whole cell magenta
+	keyword whole ceil magenta
+	keyword whole cd magenta
+	keyword whole ccolor magenta
+	keyword whole ccall magenta
+	keyword whole cbrt magenta
+	keyword whole catch_backtrace magenta
+	keyword whole catch magenta
+	keyword whole catalan magenta
+	keyword whole cat magenta
+	keyword whole cartesianmap magenta
+	keyword whole capacity magenta
+	keyword whole call magenta
+	keyword whole c_realloc magenta
+	keyword whole c_malloc magenta
+	keyword whole c_free magenta
+	keyword whole c_calloc magenta
+	keyword whole c magenta
+	keyword whole bytestring magenta
+	keyword whole bytes2hex magenta
+	keyword whole by magenta
+	keyword whole bswap magenta
+	keyword whole broadcast_setindex! brightmagenta
+	keyword whole broadcast_getindex magenta
+	keyword whole broadcast_function magenta
+	keyword whole broadcast!_function magenta
+	keyword whole broadcast! brightmagenta
+	keyword whole broadcast magenta
+	keyword whole brfft magenta
+	keyword whole break magenta
+	keyword whole boundingbox magenta
+	keyword whole bool magenta
+	keyword blue brightblue
+	keyword whole blkdiag magenta
+	keyword whole blas_set_num_threads magenta
+	keyword whole bkfact! brightmagenta
+	keyword whole bkfact magenta
+	keyword whole bitunpack magenta
+	keyword whole bitstype magenta
+	keyword whole bits magenta
+	keyword whole bitrand magenta
+	keyword whole bitpack magenta
+	keyword whole bitmap magenta
+	keyword whole bitbroadcast magenta
+	keyword whole binomial magenta
+	keyword whole bind magenta
+	keyword whole binary_minheap magenta
+	keyword whole binary_maxheap magenta
+	keyword whole bin magenta
+	keyword whole big magenta
+	keyword whole bhattacharyya magenta
+	keyword whole bfft! brightmagenta
+	keyword whole bfft magenta
+	keyword whole beta magenta
+	keyword whole besselyx magenta
+	keyword whole bessely1 magenta
+	keyword whole bessely0 magenta
+	keyword whole bessely magenta
+	keyword whole besselkx magenta
+	keyword whole besselk magenta
+	keyword whole besseljx magenta
+	keyword whole besselj1 magenta
+	keyword whole besselj0 magenta
+	keyword whole besselj magenta
+	keyword whole besselix magenta
+	keyword whole besseli magenta
+	keyword whole besselhx magenta
+	keyword whole besselh magenta
+	keyword whole beginswith magenta
+	keyword whole begin magenta
+	keyword whole beforestartsemitoken magenta
+	keyword whole basename magenta
+	keyword whole base_colorant_type magenta
+	keyword whole base_color_type magenta
+	keyword whole base64encode magenta
+	keyword whole base64decode magenta
+	keyword whole base64 magenta
+	keyword whole base magenta
+	keyword whole baremodule magenta
+	keyword whole backtrace magenta
+	keyword whole back magenta
+	keyword whole autocov! brightmagenta
+	keyword whole autocov magenta
+	keyword whole autocor! brightmagenta
+	keyword whole autocor magenta
+	keyword whole atreplinit magenta
+	keyword whole atexit magenta
+	keyword whole atanh magenta
+	keyword whole atand magenta
+	keyword whole atan2 magenta
+	keyword whole atan magenta
+	keyword whole assert magenta
+	keyword whole asinh magenta
+	keyword whole asind magenta
+	keyword whole asin magenta
+	keyword whole asech magenta
+	keyword whole asecd magenta
+	keyword whole asec magenta
+	keyword whole ascii magenta
+	keyword whole array magenta
+	keyword whole argb32 magenta
+	keyword whole apropos magenta
+	keyword whole apply magenta
+	keyword whole applicable magenta
+	keyword whole append! brightmagenta
+	keyword whole anyna magenta
+	keyword whole any! brightmagenta
+	keyword whole any magenta
+	keyword whole ans magenta
+	keyword whole angle magenta
+	keyword whole alphacolor magenta
+	keyword whole alpha magenta
+	keyword whole allna magenta
+	keyword whole allcompletions magenta
+	keyword whole all! brightmagenta
+	keyword whole all magenta
+	keyword whole airyx magenta
+	keyword whole airyprime magenta
+	keyword whole airybiprime magenta
+	keyword whole airybi magenta
+	keyword whole airyaiprime magenta
+	keyword whole airyai magenta
+	keyword whole airy magenta
+	keyword whole aggregate magenta
+	keyword whole advance magenta
+	keyword whole adjust magenta
+	keyword whole addtopath! brightmagenta
+	keyword whole addprocs magenta
+	keyword whole addcounts! brightmagenta
+	keyword whole add! brightmagenta
+	keyword whole acsch magenta
+	keyword whole acscd magenta
+	keyword whole acsc magenta
+	keyword whole acoth magenta
+	keyword whole acotd magenta
+	keyword whole acot magenta
+	keyword whole acosh magenta
+	keyword whole acosd magenta
+	keyword whole acos magenta
+	keyword whole accept magenta
+	keyword whole abstract magenta
+	keyword whole abspath magenta
+	keyword whole abs2 magenta
+	keyword whole abs magenta
 	keyword __precompile__ brightcyan
 	keyword ^ red
 	keyword \\ brown
 	keyword Zlib cyan
-	keyword Zip cyan
-	keyword Z_VERSION_ERROR cyan
-	keyword Z_STREAM_ERROR cyan
-	keyword Z_STREAM_END cyan
-	keyword Z_RLE cyan
-	keyword Z_OK cyan
-	keyword Z_NO_COMPRESSION cyan
-	keyword Z_NEED_DICT cyan
-	keyword Z_MEM_ERROR cyan
-	keyword Z_HUFFMAN_ONLY cyan
-	keyword Z_FIXED cyan
-	keyword Z_FILTERED cyan
-	keyword Z_ERRNO cyan
-	keyword Z_DEFAULT_STRATEGY cyan
-	keyword Z_DEFAULT_COMPRESSION cyan
-	keyword Z_DEFAULT_BUFSIZE cyan
-	keyword Z_DATA_ERROR cyan
-	keyword Z_BUF_ERROR cyan
-	keyword Z_BIG_BUFSIZE cyan
-	keyword Z_BEST_SPEED cyan
-	keyword Z_BEST_COMPRESSION cyan
-	keyword ZFileOffset cyan
-	keyword ZError cyan
-	keyword Year cyan
-	keyword YIQA cyan
-	keyword YIQ cyan
-	keyword YCbCrA cyan
-	keyword YCbCr cyan
-	keyword XYZA cyan
-	keyword XYZ cyan
-	keyword WorkerConfig cyan
-	keyword WeightedSqEuclidean cyan
-	keyword WeightedMinkowski cyan
-	keyword WeightedHamming cyan
-	keyword WeightedEuclidean cyan
-	keyword WeightedCityblock cyan
-	keyword WeightVec cyan
-	keyword Week cyan
-	keyword Wednesday cyan
-	keyword Wed cyan
-	keyword WeakRef cyan
-	keyword WeakKeyDict cyan
-	keyword WString cyan
-	keyword WORD_SIZE cyan
-	keyword Void cyan
-	keyword VersionNumber cyan
-	keyword Vector cyan
-	keyword VecOrMat cyan
-	keyword Vararg cyan
-	keyword Val cyan
-	keyword VERSION cyan
-	keyword UpperTriangular cyan
-	keyword Unsigned cyan
-	keyword UnsafeStridedView cyan
-	keyword UnsafeContiguousView cyan
-	keyword UnsafeArrayView cyan
-	keyword UnitRange cyan
-	keyword UnitBox cyan
-	keyword Union cyan
-	keyword UniformScaling cyan
-	keyword UnicodeError cyan
-	keyword UndefVarError cyan
-	keyword UndefRefError cyan
-	keyword UTF8String brown
-	keyword UTF32String brown
-	keyword UTF16String brown
-	keyword UTC cyan
-	keyword UInt8 brown
-	keyword UInt64 brown
-	keyword UInt32 brown
-	keyword UInt16 brown
-	keyword UInt128 brown
-	keyword UInt brown
-	keyword UDPSocket cyan
-	keyword U8 cyan
-	keyword TypeVar cyan
-	keyword TypeName cyan
-	keyword TypeError cyan
-	keyword TypeConstructor cyan
-	keyword Type cyan
-	keyword Tuple cyan
-	keyword Tuesday cyan
-	keyword Tue cyan
-	keyword Trie cyan
-	keyword Tridiagonal cyan
-	keyword TransparentColor cyan
-	keyword TopNode cyan
-	keyword Timer cyan
-	keyword TimeZone cyan
-	keyword TimeType cyan
-	keyword TimePeriod cyan
-	keyword Thursday cyan
-	keyword Thu cyan
-	keyword TextDisplay cyan
-	keyword Text cyan
-	keyword Test cyan
-	keyword Task cyan
-	keyword TCPSocket cyan
-	keyword SystemError cyan
-	keyword Sys cyan
-	keyword Symmetric cyan
-	keyword SymbolNode cyan
-	keyword Symbol cyan
-	keyword SymTridiagonal cyan
-	keyword Sunday cyan
-	keyword Sun cyan
-	keyword SubString cyan
-	keyword SubDataFrame cyan
-	keyword SubArray cyan
-	keyword StridedView cyan
-	keyword StridedVector cyan
-	keyword StridedVecOrMat cyan
-	keyword StridedMatrix cyan
-	keyword StridedArrayView cyan
-	keyword StridedArray cyan
-	keyword StepRange cyan
-	keyword StatsFuns cyan
-	keyword StatsBase cyan
-	keyword StatisticalModel cyan
-	keyword StatStruct cyan
-	keyword StackOverflowError cyan
-	keyword Stack cyan
-	keyword SqMahalanobis cyan
-	keyword SqEuclidean cyan
-	keyword SparseMatrixCSC cyan
-	keyword SparseMatrix cyan
-	keyword SparseArrays cyan
-	keyword SpanNormDist cyan
-	keyword SortingAlgorithms cyan
-	keyword SortedSet cyan
-	keyword SortedMultiDict cyan
-	keyword SortedDict cyan
-	keyword SimpleVector cyan
-	keyword Signed cyan
-	keyword Showoff cyan
-	keyword SharedVector cyan
-	keyword SharedMatrix cyan
-	keyword SharedArray cyan
-	keyword SetToken cyan
-	keyword SetSemiToken cyan
-	keyword Set cyan
-	keyword Serializer cyan
-	keyword SerializationState cyan
-	keyword September cyan
-	keyword Sep cyan
-	keyword SemiMetric cyan
-	keyword SegmentationFault cyan
-	keyword Second cyan
-	keyword Saturday cyan
-	keyword Sat cyan
-	keyword SVGJS cyan
-	keyword SVG cyan
-	keyword STDOUT cyan
-	keyword STDIN cyan
-	keyword STDERR cyan
-	keyword SMDToken cyan
-	keyword SMDSemiToken cyan
-	keyword SDToken cyan
-	keyword SDSemiToken cyan
-	keyword RoundingMode cyan
-	keyword RoundUp cyan
-	keyword RoundToZero cyan
-	keyword RoundNearestTiesUp cyan
-	keyword RoundNearestTiesAway cyan
-	keyword RoundNearest cyan
-	keyword RoundFromZero cyan
-	keyword RoundDown cyan
-	keyword Rotation cyan
-	keyword RopeString cyan
-	keyword RevString cyan
-	keyword Requires cyan
-	keyword RepString cyan
-	keyword RemoteRef cyan
-	keyword RemoteException cyan
-	keyword RegressionModel cyan
-	keyword RegexMatch cyan
-	keyword Regex cyan
-	keyword Ref cyan
-	keyword Reexport cyan
-	keyword ReentrantLock cyan
-	keyword Real cyan
-	keyword ReadOnlyMemoryError cyan
-	keyword RawFD cyan
-	keyword Rational cyan
-	keyword RangeIndex cyan
-	keyword Range cyan
-	keyword RandomDevice cyan
-	keyword RGBA cyan
-	keyword RGB4 cyan
-	keyword RGB24 cyan
-	keyword RGB1 cyan
-	keyword RGB cyan
-	keyword RFC1123Format cyan
-	keyword QuoteNode cyan
-	keyword QuickSort cyan
-	keyword Queue cyan
-	keyword Ptr cyan
-	keyword Profile cyan
-	keyword ProcessGroup cyan
-	keyword ProcessExitedException cyan
-	keyword PreMetric cyan
-	keyword PooledDataVector cyan
-	keyword PooledDataVecs cyan
-	keyword PooledDataMatrix cyan
-	keyword PooledDataArray cyan
-	keyword PollingFileWatcher cyan
-	keyword Pkg cyan
-	keyword PipeBuffer cyan
-	keyword Pipe cyan
-	keyword Period cyan
-	keyword Patchable cyan
-	keyword PartialQuickSort cyan
-	keyword ParseError cyan
-	keyword ParentDrawContext cyan
-	keyword Pair cyan
-	keyword PS cyan
-	keyword PNG cyan
-	keyword PGF cyan
-	keyword PDF cyan
-	keyword OverflowError cyan
-	keyword OutOfMemoryError cyan
-	keyword OrdinalRange cyan
-	keyword OrderedSet cyan
-	keyword OrderedDict cyan
-	keyword Operators cyan
-	keyword October cyan
-	keyword Oct cyan
-	keyword ObjectIdDict cyan
-	keyword OS_NAME cyan
-	keyword Number cyan
-	keyword Nullable cyan
-	keyword NullException cyan
-	keyword November cyan
-	keyword Nov cyan
-	keyword Nil cyan
-	keyword NewvarNode cyan
-	keyword NaN64 cyan
-	keyword NaN32 cyan
-	keyword NaN16 cyan
-	keyword NaN cyan
-	keyword NTuple cyan
-	keyword NAtype cyan
-	keyword NAException cyan
-	keyword NA cyan
-	keyword MutableBinaryHeap cyan
-	keyword MultiDict cyan
-	keyword Month cyan
-	keyword Monday cyan
-	keyword Mon cyan
-	keyword Module cyan
-	keyword ModelMatrix cyan
-	keyword ModelFrame cyan
-	keyword Mmap cyan
-	keyword Mirror cyan
-	keyword Minute cyan
-	keyword Minkowski cyan
-	keyword Millisecond cyan
-	keyword Metric cyan
-	keyword MethodTable cyan
-	keyword MethodError cyan
-	keyword Method cyan
-	keyword Meta cyan
-	keyword MersenneTwister cyan
-	keyword MergeSort cyan
-	keyword Measures cyan
-	keyword Measure cyan
-	keyword May cyan
-	keyword Matrix cyan
-	keyword Markdown cyan
-	keyword March cyan
-	keyword Mar cyan
-	keyword Mahalanobis cyan
-	keyword MacroTools cyan
-	keyword MSC cyan
-	keyword MIME cyan
-	keyword LuvA cyan
-	keyword Luv cyan
-	keyword Lt cyan
-	keyword LowerTriangular cyan
-	keyword LocalProcess cyan
-	keyword LoadError cyan
-	keyword List cyan
-	keyword LinkedList cyan
-	keyword Linfdist cyan
-	keyword LineNumberNode cyan
-	keyword LineCapSquare cyan
-	keyword LineCapRound cyan
-	keyword LineCapButt cyan
-	keyword LinSpace cyan
-	keyword LinAlg cyan
-	keyword LightTable cyan
-	keyword Libdl cyan
-	keyword Libc cyan
-	keyword Lazy cyan
-	keyword LambdaStaticData cyan
-	keyword LabelNode cyan
-	keyword LabA cyan
-	keyword Lab cyan
-	keyword LOAD_PATH cyan
-	keyword LNR cyan
-	keyword LMSA cyan
-	keyword LMS cyan
-	keyword LCHuvA cyan
-	keyword LCHuv cyan
-	keyword LCHabA cyan
-	keyword LCHab cyan
-	keyword LAPACK cyan
-	keyword L2dist cyan
-	keyword L1dist cyan
-	keyword KeyError cyan
-	keyword KLDivergence cyan
-	keyword June cyan
-	keyword Jun cyan
-	keyword July cyan
-	keyword JuliaParser cyan
-	keyword Jul cyan
-	keyword Jewel cyan
-	keyword January cyan
-	keyword Jan cyan
-	keyword JULIA_HOME cyan
-	keyword JSON cyan
-	keyword JSDivergence cyan
-	keyword Iterators cyan
-	keyword Irrational cyan
-	keyword InvalidStateException cyan
-	keyword Intrinsics cyan
-	keyword IntrinsicFunction cyan
-	keyword InterruptException cyan
-	keyword Integer cyan
-	keyword IntSet cyan
-	keyword IntDisjointSets cyan
-	keyword Int8 cyan
-	keyword Int64 cyan
-	keyword Int32 cyan
-	keyword Int16 cyan
-	keyword Int128 cyan
-	keyword Int cyan
-	keyword InsertionSort cyan
-	keyword InitError cyan
-	keyword Inf64 cyan
-	keyword Inf32 cyan
-	keyword Inf16 cyan
-	keyword Inf cyan
-	keyword InexactError cyan
-	keyword ISODateTimeFormat cyan
-	keyword ISODateFormat cyan
-	keyword IPv6 cyan
-	keyword IPv4 cyan
-	keyword IOStream cyan
-	keyword IOBuffer cyan
-	keyword IO cyan
-	keyword I cyan
-	keyword Hour cyan
-	keyword Histogram cyan
-	keyword Hermitian cyan
-	keyword HellingerDist cyan
-	keyword HashDict cyan
-	keyword Hamming cyan
-	keyword HTML cyan
-	keyword HSVA cyan
-	keyword HSV cyan
-	keyword HSLA cyan
-	keyword HSL cyan
-	keyword HSIA cyan
-	keyword HSI cyan
-	keyword HSB cyan
-	keyword GroupedDataFrame cyan
-	keyword GroupApplied cyan
-	keyword GrayA cyan
-	keyword Gray24 cyan
-	keyword Gray cyan
-	keyword GotoNode cyan
-	keyword GlobalRef cyan
-	keyword GenSym cyan
-	keyword GZipStream cyan
-	keyword GZip cyan
-	keyword GZError cyan
-	keyword Function cyan
-	keyword Friday cyan
-	keyword Fri cyan
-	keyword Fractional cyan
-	keyword Formula cyan
-	keyword FloatRange cyan
-	keyword Float64 cyan
-	keyword Float32 cyan
-	keyword Float16 cyan
-	keyword FixedPointNumbers cyan
-	keyword Filter cyan
-	keyword FileOffset cyan
-	keyword FileMonitor cyan
-	keyword February cyan
-	keyword Feb cyan
-	keyword FastPerm cyan
-	keyword Factorization cyan
-	keyword FFTW cyan
-	keyword Expr cyan
-	keyword Exception cyan
-	keyword Euclidean cyan
-	keyword ErrorException cyan
-	keyword Enumerate cyan
-	keyword Enum cyan
-	keyword EachReplaceNA cyan
-	keyword EachLine cyan
-	keyword EachFailNA cyan
-	keyword EachDropNA cyan
-	keyword EOFError cyan
-	keyword ENV cyan
-	keyword ENDIAN_BOM cyan
-	keyword DomainError cyan
-	keyword Docs cyan
-	keyword Docile cyan
-	keyword DivideError cyan
-	keyword Distances cyan
-	keyword Display cyan
-	keyword DisjointSets cyan
-	keyword DirectIndexString cyan
-	keyword Dims cyan
-	keyword DimensionMismatch cyan
-	keyword Dict cyan
-	keyword Diagonal cyan
-	keyword DevNull cyan
-	keyword Deque cyan
-	keyword DenseVector cyan
-	keyword DenseVecOrMat cyan
-	keyword DenseMatrix cyan
-	keyword DenseArray cyan
-	keyword DefaultOrderedDict cyan
-	keyword DefaultDict cyan
-	keyword December cyan
-	keyword Dec cyan
-	keyword Day cyan
-	keyword Dates cyan
-	keyword DateTime cyan
-	keyword DatePeriod cyan
-	keyword DateFormat cyan
-	keyword Date cyan
-	keyword DataVector cyan
-	keyword DataType cyan
-	keyword DataStructures cyan
-	keyword DataMatrix cyan
-	keyword DataFrames cyan
-	keyword DataFrameRow cyan
-	keyword DataFrame cyan
-	keyword DataArrays cyan
-	keyword DataArray cyan
-	keyword DIN99oA cyan
-	keyword DIN99o cyan
-	keyword DIN99dA cyan
-	keyword DIN99d cyan
-	keyword DIN99A cyan
-	keyword DIN99 cyan
-	keyword DE_JPC79 cyan
-	keyword DE_DIN99o cyan
-	keyword DE_DIN99d cyan
-	keyword DE_DIN99 cyan
-	keyword DE_CMC cyan
-	keyword DE_BFD cyan
-	keyword DE_AB cyan
-	keyword DE_94 cyan
-	keyword DE_2000 cyan
-	keyword Cwstring cyan
-	keyword Cwchar_t cyan
-	keyword Cushort cyan
-	keyword Culonglong cyan
-	keyword Culong cyan
-	keyword Cuintmax_t cyan
-	keyword Cuint cyan
-	keyword Cuchar cyan
-	keyword Cstring cyan
-	keyword Cssize_t cyan
-	keyword Csize_t cyan
-	keyword Cshort cyan
-	keyword Cptrdiff_t cyan
-	keyword CosineDist cyan
-	keyword CorrDist cyan
-	keyword Core cyan
-	keyword ContiguousView cyan
-	keyword ContiguousVector cyan
-	keyword ContiguousMatrix cyan
-	keyword ContiguousArray cyan
-	keyword Context cyan
-	keyword Cons cyan
-	keyword Condition cyan
-	keyword CompositeException cyan
-	keyword Compose cyan
-	keyword Complex64 cyan
-	keyword Complex32 cyan
-	keyword Complex128 cyan
-	keyword Complex cyan
-	keyword Compat cyan
-	keyword Colors cyan
-	keyword Colorant cyan
-	keyword ColorTypes cyan
-	keyword ColorAlpha cyan
-	keyword Color cyan
-	keyword Colon cyan
-	keyword Collections cyan
-	keyword Coff_t cyan
-	keyword CoefTable cyan
-	keyword Codecs cyan
-	keyword Cmd cyan
-	keyword ClusterManager cyan
-	keyword Clonglong cyan
-	keyword Clong cyan
-	keyword ClassifiedCollections cyan
-	keyword Cityblock cyan
-	keyword Cintmax_t cyan
-	keyword Cint cyan
-	keyword ChiSqDist cyan
-	keyword Chebyshev cyan
-	keyword Char cyan
-	keyword Channel cyan
-	keyword Cfloat cyan
-	keyword Cdouble cyan
-	keyword Cchar cyan
-	keyword CartesianRange cyan
-	keyword CartesianIndex cyan
-	keyword CapturedException cyan
-	keyword C_NULL cyan
-	keyword CPU_CORES cyan
-	keyword CIE1964_CMF cyan
-	keyword CIE1931_CMF cyan
-	keyword CIE1931J_CMF cyan
-	keyword CIE1931JV_CMF cyan
-	keyword CAIROSURFACE cyan
-	keyword ByteString brown
-	keyword BufferStream cyan
-	keyword Box cyan
-	keyword BoundsError cyan
-	keyword Bool cyan
-	keyword BitVector cyan
-	keyword BitMatrix cyan
-	keyword BitArray cyan
-	keyword BinaryHeap cyan
-	keyword BigInt cyan
-	keyword BigFloat cyan
-	keyword Bidiagonal cyan
-	keyword BhattacharyyaDist cyan
-	keyword Base64EncodePipe cyan
-	keyword Base64DecodePipe cyan
-	keyword Base64 cyan
-	keyword Base cyan
-	keyword BLAS cyan
-	keyword BGRA cyan
-	keyword BGR cyan
-	keyword BCD cyan
-	keyword AxyY cyan
-	keyword August cyan
-	keyword Aug cyan
-	keyword At_rdiv_Bt cyan
-	keyword At_rdiv_B cyan
-	keyword At_mul_Bt! brightmagenta
-	keyword At_mul_Bt cyan
-	keyword At_mul_B! brightmagenta
-	keyword At_mul_B cyan
-	keyword At_ldiv_Bt cyan
-	keyword At_ldiv_B cyan
-	keyword Associative cyan
-	keyword AssertionError cyan
-	keyword ArrayViews cyan
-	keyword ArrayView cyan
-	keyword Array cyan
-	keyword ArgumentError cyan
-	keyword April cyan
-	keyword Apr cyan
-	keyword Any cyan
-	keyword AlphaColor cyan
-	keyword Accumulator cyan
-	keyword Ac_rdiv_Bc cyan
-	keyword Ac_rdiv_B cyan
-	keyword Ac_mul_Bc! brightmagenta
-	keyword Ac_mul_Bc cyan
-	keyword Ac_mul_B! brightmagenta
-	keyword Ac_mul_B cyan
-	keyword Ac_ldiv_Bc cyan
-	keyword Ac_ldiv_B cyan
-	keyword AbstractVector cyan
-	keyword AbstractVecOrMat cyan
-	keyword AbstractString brown
-	keyword AbstractSparseVector brown
-	keyword AbstractSparseMatrix brown
-	keyword AbstractSparseArray brown
-	keyword AbstractRNG brown
-	keyword AbstractRGB brown
-	keyword AbstractMatrix brown
-	keyword AbstractHistogram brown
-	keyword AbstractHeap brown
-	keyword AbstractFloat brown
-	keyword AbstractDataVector brown
-	keyword AbstractDataMatrix brown
-	keyword AbstractDataFrame brown
-	keyword AbstractDataArray brown
-	keyword AbstractChannel brown
-	keyword AbstractArray brown
-	keyword AbsoluteBoundingBox cyan
-	keyword A_rdiv_Bt cyan
-	keyword A_rdiv_Bc cyan
-	keyword A_mul_Bt! brightmagenta
-	keyword A_mul_Bt cyan
-	keyword A_mul_Bc! brightmagenta
-	keyword A_mul_Bc cyan
-	keyword A_mul_B! brightmagenta
-	keyword A_ldiv_Bt cyan
-	keyword A_ldiv_Bc cyan
-	keyword A_ldiv_B! brightmagenta
-	keyword AYIQ cyan
-	keyword AYCbCr cyan
-	keyword AXYZ cyan
-	keyword ASCIIString brown
-	keyword ARGS brightcyan
-	keyword ARGB32 cyan
-	keyword ARGB cyan
-	keyword ANY brown
-	keyword ALuv cyan
-	keyword ALab cyan
-	keyword ALMS cyan
-	keyword ALCHuv cyan
-	keyword ALCHab cyan
-	keyword AHSV cyan
-	keyword AHSL cyan
-	keyword AHSI cyan
-	keyword AGray32 cyan
-	keyword AGray cyan
-	keyword ADIN99o cyan
-	keyword ADIN99d cyan
-	keyword ADIN99 cyan
-	keyword ABGR cyan
+	keyword whole Zip cyan
+	keyword whole Z_VERSION_ERROR cyan
+	keyword whole Z_STREAM_ERROR cyan
+	keyword whole Z_STREAM_END cyan
+	keyword whole Z_RLE cyan
+	keyword whole Z_OK cyan
+	keyword whole Z_NO_COMPRESSION cyan
+	keyword whole Z_NEED_DICT cyan
+	keyword whole Z_MEM_ERROR cyan
+	keyword whole Z_HUFFMAN_ONLY cyan
+	keyword whole Z_FIXED cyan
+	keyword whole Z_FILTERED cyan
+	keyword whole Z_ERRNO cyan
+	keyword whole Z_DEFAULT_STRATEGY cyan
+	keyword whole Z_DEFAULT_COMPRESSION cyan
+	keyword whole Z_DEFAULT_BUFSIZE cyan
+	keyword whole Z_DATA_ERROR cyan
+	keyword whole Z_BUF_ERROR cyan
+	keyword whole Z_BIG_BUFSIZE cyan
+	keyword whole Z_BEST_SPEED cyan
+	keyword whole Z_BEST_COMPRESSION cyan
+	keyword whole ZFileOffset cyan
+	keyword whole ZError cyan
+	keyword whole Year cyan
+	keyword whole YIQA cyan
+	keyword whole YIQ cyan
+	keyword whole YCbCrA cyan
+	keyword whole YCbCr cyan
+	keyword whole XYZA cyan
+	keyword whole XYZ cyan
+	keyword whole WorkerConfig cyan
+	keyword whole WeightedSqEuclidean cyan
+	keyword whole WeightedMinkowski cyan
+	keyword whole WeightedHamming cyan
+	keyword whole WeightedEuclidean cyan
+	keyword whole WeightedCityblock cyan
+	keyword whole WeightVec cyan
+	keyword whole Week cyan
+	keyword whole Wednesday cyan
+	keyword whole Wed cyan
+	keyword whole WeakRef cyan
+	keyword whole WeakKeyDict cyan
+	keyword whole WString cyan
+	keyword whole WORD_SIZE cyan
+	keyword whole Void cyan
+	keyword whole VersionNumber cyan
+	keyword whole Vector cyan
+	keyword whole VecOrMat cyan
+	keyword whole Vararg cyan
+	keyword whole Val cyan
+	keyword whole VERSION cyan
+	keyword whole UpperTriangular cyan
+	keyword whole Unsigned cyan
+	keyword whole UnsafeStridedView cyan
+	keyword whole UnsafeContiguousView cyan
+	keyword whole UnsafeArrayView cyan
+	keyword whole UnitRange cyan
+	keyword whole UnitBox cyan
+	keyword whole Union cyan
+	keyword whole UniformScaling cyan
+	keyword whole UnicodeError cyan
+	keyword whole UndefVarError cyan
+	keyword whole UndefRefError cyan
+	keyword whole UTF8String brown
+	keyword whole UTF32String brown
+	keyword whole UTF16String brown
+	keyword whole UTC cyan
+	keyword whole UInt8 brown
+	keyword whole UInt64 brown
+	keyword whole UInt32 brown
+	keyword whole UInt16 brown
+	keyword whole UInt128 brown
+	keyword whole UInt brown
+	keyword whole UDPSocket cyan
+	keyword whole U8 cyan
+	keyword whole TypeVar cyan
+	keyword whole TypeName cyan
+	keyword whole TypeError cyan
+	keyword whole TypeConstructor cyan
+	keyword whole Type cyan
+	keyword whole Tuple cyan
+	keyword whole Tuesday cyan
+	keyword whole Tue cyan
+	keyword whole Trie cyan
+	keyword whole Tridiagonal cyan
+	keyword whole TransparentColor cyan
+	keyword whole TopNode cyan
+	keyword whole Timer cyan
+	keyword whole TimeZone cyan
+	keyword whole TimeType cyan
+	keyword whole TimePeriod cyan
+	keyword whole Thursday cyan
+	keyword whole Thu cyan
+	keyword whole TextDisplay cyan
+	keyword whole Text cyan
+	keyword whole Test cyan
+	keyword whole Task cyan
+	keyword whole TCPSocket cyan
+	keyword whole SystemError cyan
+	keyword whole Sys cyan
+	keyword whole Symmetric cyan
+	keyword whole SymbolNode cyan
+	keyword whole Symbol cyan
+	keyword whole SymTridiagonal cyan
+	keyword whole Sunday cyan
+	keyword whole Sun cyan
+	keyword whole SubString cyan
+	keyword whole SubDataFrame cyan
+	keyword whole SubArray cyan
+	keyword whole StridedView cyan
+	keyword whole StridedVector cyan
+	keyword whole StridedVecOrMat cyan
+	keyword whole StridedMatrix cyan
+	keyword whole StridedArrayView cyan
+	keyword whole StridedArray cyan
+	keyword whole StepRange cyan
+	keyword whole StatsFuns cyan
+	keyword whole StatsBase cyan
+	keyword whole StatisticalModel cyan
+	keyword whole StatStruct cyan
+	keyword whole StackOverflowError cyan
+	keyword whole Stack cyan
+	keyword whole SqMahalanobis cyan
+	keyword whole SqEuclidean cyan
+	keyword whole SparseMatrixCSC cyan
+	keyword whole SparseMatrix cyan
+	keyword whole SparseArrays cyan
+	keyword whole SpanNormDist cyan
+	keyword whole SortingAlgorithms cyan
+	keyword whole SortedSet cyan
+	keyword whole SortedMultiDict cyan
+	keyword whole SortedDict cyan
+	keyword whole SimpleVector cyan
+	keyword whole Signed cyan
+	keyword whole Showoff cyan
+	keyword whole SharedVector cyan
+	keyword whole SharedMatrix cyan
+	keyword whole SharedArray cyan
+	keyword whole SetToken cyan
+	keyword whole SetSemiToken cyan
+	keyword whole Set cyan
+	keyword whole Serializer cyan
+	keyword whole SerializationState cyan
+	keyword whole September cyan
+	keyword whole Sep cyan
+	keyword whole SemiMetric cyan
+	keyword whole SegmentationFault cyan
+	keyword whole Second cyan
+	keyword whole Saturday cyan
+	keyword whole Sat cyan
+	keyword whole SVGJS cyan
+	keyword whole SVG cyan
+	keyword whole STDOUT cyan
+	keyword whole STDIN cyan
+	keyword whole STDERR cyan
+	keyword whole SMDToken cyan
+	keyword whole SMDSemiToken cyan
+	keyword whole SDToken cyan
+	keyword whole SDSemiToken cyan
+	keyword whole RoundingMode cyan
+	keyword whole RoundUp cyan
+	keyword whole RoundToZero cyan
+	keyword whole RoundNearestTiesUp cyan
+	keyword whole RoundNearestTiesAway cyan
+	keyword whole RoundNearest cyan
+	keyword whole RoundFromZero cyan
+	keyword whole RoundDown cyan
+	keyword whole Rotation cyan
+	keyword whole RopeString cyan
+	keyword whole RevString cyan
+	keyword whole Requires cyan
+	keyword whole RepString cyan
+	keyword whole RemoteRef cyan
+	keyword whole RemoteException cyan
+	keyword whole RegressionModel cyan
+	keyword whole RegexMatch cyan
+	keyword whole Regex cyan
+	keyword whole Ref cyan
+	keyword whole Reexport cyan
+	keyword whole ReentrantLock cyan
+	keyword whole Real cyan
+	keyword whole ReadOnlyMemoryError cyan
+	keyword whole RawFD cyan
+	keyword whole Rational cyan
+	keyword whole RangeIndex cyan
+	keyword whole Range cyan
+	keyword whole RandomDevice cyan
+	keyword whole RGBA cyan
+	keyword whole RGB4 cyan
+	keyword whole RGB24 cyan
+	keyword whole RGB1 cyan
+	keyword whole RGB cyan
+	keyword whole RFC1123Format cyan
+	keyword whole QuoteNode cyan
+	keyword whole QuickSort cyan
+	keyword whole Queue cyan
+	keyword whole Ptr cyan
+	keyword whole Profile cyan
+	keyword whole ProcessGroup cyan
+	keyword whole ProcessExitedException cyan
+	keyword whole PreMetric cyan
+	keyword whole PooledDataVector cyan
+	keyword whole PooledDataVecs cyan
+	keyword whole PooledDataMatrix cyan
+	keyword whole PooledDataArray cyan
+	keyword whole PollingFileWatcher cyan
+	keyword whole Pkg cyan
+	keyword whole PipeBuffer cyan
+	keyword whole Pipe cyan
+	keyword whole Period cyan
+	keyword whole Patchable cyan
+	keyword whole PartialQuickSort cyan
+	keyword whole ParseError cyan
+	keyword whole ParentDrawContext cyan
+	keyword whole Pair cyan
+	keyword whole PS cyan
+	keyword whole PNG cyan
+	keyword whole PGF cyan
+	keyword whole PDF cyan
+	keyword whole OverflowError cyan
+	keyword whole OutOfMemoryError cyan
+	keyword whole OrdinalRange cyan
+	keyword whole OrderedSet cyan
+	keyword whole OrderedDict cyan
+	keyword whole Operators cyan
+	keyword whole October cyan
+	keyword whole Oct cyan
+	keyword whole ObjectIdDict cyan
+	keyword whole OS_NAME cyan
+	keyword whole Number cyan
+	keyword whole Nullable cyan
+	keyword whole NullException cyan
+	keyword whole November cyan
+	keyword whole Nov cyan
+	keyword whole Nil cyan
+	keyword whole NewvarNode cyan
+	keyword whole NaN64 cyan
+	keyword whole NaN32 cyan
+	keyword whole NaN16 cyan
+	keyword whole NaN cyan
+	keyword whole NTuple cyan
+	keyword whole NAtype cyan
+	keyword whole NAException cyan
+	keyword whole NA cyan
+	keyword whole MutableBinaryHeap cyan
+	keyword whole MultiDict cyan
+	keyword whole Month cyan
+	keyword whole Monday cyan
+	keyword whole Mon cyan
+	keyword whole Module cyan
+	keyword whole ModelMatrix cyan
+	keyword whole ModelFrame cyan
+	keyword whole Mmap cyan
+	keyword whole Mirror cyan
+	keyword whole Minute cyan
+	keyword whole Minkowski cyan
+	keyword whole Millisecond cyan
+	keyword whole Metric cyan
+	keyword whole MethodTable cyan
+	keyword whole MethodError cyan
+	keyword whole Method cyan
+	keyword whole Meta cyan
+	keyword whole MersenneTwister cyan
+	keyword whole MergeSort cyan
+	keyword whole Measures cyan
+	keyword whole Measure cyan
+	keyword whole May cyan
+	keyword whole Matrix cyan
+	keyword whole Markdown cyan
+	keyword whole March cyan
+	keyword whole Mar cyan
+	keyword whole Mahalanobis cyan
+	keyword whole MacroTools cyan
+	keyword whole MSC cyan
+	keyword whole MIME cyan
+	keyword whole LuvA cyan
+	keyword whole Luv cyan
+	keyword whole Lt cyan
+	keyword whole LowerTriangular cyan
+	keyword whole LocalProcess cyan
+	keyword whole LoadError cyan
+	keyword whole List cyan
+	keyword whole LinkedList cyan
+	keyword whole Linfdist cyan
+	keyword whole LineNumberNode cyan
+	keyword whole LineCapSquare cyan
+	keyword whole LineCapRound cyan
+	keyword whole LineCapButt cyan
+	keyword whole LinSpace cyan
+	keyword whole LinAlg cyan
+	keyword whole LightTable cyan
+	keyword whole Libdl cyan
+	keyword whole Libc cyan
+	keyword whole Lazy cyan
+	keyword whole LambdaStaticData cyan
+	keyword whole LabelNode cyan
+	keyword whole LabA cyan
+	keyword whole Lab cyan
+	keyword whole LOAD_PATH cyan
+	keyword whole LNR cyan
+	keyword whole LMSA cyan
+	keyword whole LMS cyan
+	keyword whole LCHuvA cyan
+	keyword whole LCHuv cyan
+	keyword whole LCHabA cyan
+	keyword whole LCHab cyan
+	keyword whole LAPACK cyan
+	keyword whole L2dist cyan
+	keyword whole L1dist cyan
+	keyword whole KeyError cyan
+	keyword whole KLDivergence cyan
+	keyword whole June cyan
+	keyword whole Jun cyan
+	keyword whole July cyan
+	keyword whole JuliaParser cyan
+	keyword whole Jul cyan
+	keyword whole Jewel cyan
+	keyword whole January cyan
+	keyword whole Jan cyan
+	keyword whole JULIA_HOME cyan
+	keyword whole JSON cyan
+	keyword whole JSDivergence cyan
+	keyword whole Iterators cyan
+	keyword whole Irrational cyan
+	keyword whole InvalidStateException cyan
+	keyword whole Intrinsics cyan
+	keyword whole IntrinsicFunction cyan
+	keyword whole InterruptException cyan
+	keyword whole Integer cyan
+	keyword whole IntSet cyan
+	keyword whole IntDisjointSets cyan
+	keyword whole Int8 cyan
+	keyword whole Int64 cyan
+	keyword whole Int32 cyan
+	keyword whole Int16 cyan
+	keyword whole Int128 cyan
+	keyword whole Int cyan
+	keyword whole InsertionSort cyan
+	keyword whole InitError cyan
+	keyword whole Inf64 cyan
+	keyword whole Inf32 cyan
+	keyword whole Inf16 cyan
+	keyword whole Inf cyan
+	keyword whole InexactError cyan
+	keyword whole ISODateTimeFormat cyan
+	keyword whole ISODateFormat cyan
+	keyword whole IPv6 cyan
+	keyword whole IPv4 cyan
+	keyword whole IOStream cyan
+	keyword whole IOBuffer cyan
+	keyword whole IO cyan
+	keyword whole I cyan
+	keyword whole Hour cyan
+	keyword whole Histogram cyan
+	keyword whole Hermitian cyan
+	keyword whole HellingerDist cyan
+	keyword whole HashDict cyan
+	keyword whole Hamming cyan
+	keyword whole HTML cyan
+	keyword whole HSVA cyan
+	keyword whole HSV cyan
+	keyword whole HSLA cyan
+	keyword whole HSL cyan
+	keyword whole HSIA cyan
+	keyword whole HSI cyan
+	keyword whole HSB cyan
+	keyword whole GroupedDataFrame cyan
+	keyword whole GroupApplied cyan
+	keyword whole GrayA cyan
+	keyword whole Gray24 cyan
+	keyword whole Gray cyan
+	keyword whole GotoNode cyan
+	keyword whole GlobalRef cyan
+	keyword whole GenSym cyan
+	keyword whole GZipStream cyan
+	keyword whole GZip cyan
+	keyword whole GZError cyan
+	keyword whole Function cyan
+	keyword whole Friday cyan
+	keyword whole Fri cyan
+	keyword whole Fractional cyan
+	keyword whole Formula cyan
+	keyword whole FloatRange cyan
+	keyword whole Float64 cyan
+	keyword whole Float32 cyan
+	keyword whole Float16 cyan
+	keyword whole FixedPointNumbers cyan
+	keyword whole Filter cyan
+	keyword whole FileOffset cyan
+	keyword whole FileMonitor cyan
+	keyword whole February cyan
+	keyword whole Feb cyan
+	keyword whole FastPerm cyan
+	keyword whole Factorization cyan
+	keyword whole FFTW cyan
+	keyword whole Expr cyan
+	keyword whole Exception cyan
+	keyword whole Euclidean cyan
+	keyword whole ErrorException cyan
+	keyword whole Enumerate cyan
+	keyword whole Enum cyan
+	keyword whole EachReplaceNA cyan
+	keyword whole EachLine cyan
+	keyword whole EachFailNA cyan
+	keyword whole EachDropNA cyan
+	keyword whole EOFError cyan
+	keyword whole ENV cyan
+	keyword whole ENDIAN_BOM cyan
+	keyword whole DomainError cyan
+	keyword whole Docs cyan
+	keyword whole Docile cyan
+	keyword whole DivideError cyan
+	keyword whole Distances cyan
+	keyword whole Display cyan
+	keyword whole DisjointSets cyan
+	keyword whole DirectIndexString cyan
+	keyword whole Dims cyan
+	keyword whole DimensionMismatch cyan
+	keyword whole Dict cyan
+	keyword whole Diagonal cyan
+	keyword whole DevNull cyan
+	keyword whole Deque cyan
+	keyword whole DenseVector cyan
+	keyword whole DenseVecOrMat cyan
+	keyword whole DenseMatrix cyan
+	keyword whole DenseArray cyan
+	keyword whole DefaultOrderedDict cyan
+	keyword whole DefaultDict cyan
+	keyword whole December cyan
+	keyword whole Dec cyan
+	keyword whole Day cyan
+	keyword whole Dates cyan
+	keyword whole DateTime cyan
+	keyword whole DatePeriod cyan
+	keyword whole DateFormat cyan
+	keyword whole Date cyan
+	keyword whole DataVector cyan
+	keyword whole DataType cyan
+	keyword whole DataStructures cyan
+	keyword whole DataMatrix cyan
+	keyword whole DataFrames cyan
+	keyword whole DataFrameRow cyan
+	keyword whole DataFrame cyan
+	keyword whole DataArrays cyan
+	keyword whole DataArray cyan
+	keyword whole DIN99oA cyan
+	keyword whole DIN99o cyan
+	keyword whole DIN99dA cyan
+	keyword whole DIN99d cyan
+	keyword whole DIN99A cyan
+	keyword whole DIN99 cyan
+	keyword whole DE_JPC79 cyan
+	keyword whole DE_DIN99o cyan
+	keyword whole DE_DIN99d cyan
+	keyword whole DE_DIN99 cyan
+	keyword whole DE_CMC cyan
+	keyword whole DE_BFD cyan
+	keyword whole DE_AB cyan
+	keyword whole DE_94 cyan
+	keyword whole DE_2000 cyan
+	keyword whole Cwstring cyan
+	keyword whole Cwchar_t cyan
+	keyword whole Cushort cyan
+	keyword whole Culonglong cyan
+	keyword whole Culong cyan
+	keyword whole Cuintmax_t cyan
+	keyword whole Cuint cyan
+	keyword whole Cuchar cyan
+	keyword whole Cstring cyan
+	keyword whole Cssize_t cyan
+	keyword whole Csize_t cyan
+	keyword whole Cshort cyan
+	keyword whole Cptrdiff_t cyan
+	keyword whole CosineDist cyan
+	keyword whole CorrDist cyan
+	keyword whole Core cyan
+	keyword whole ContiguousView cyan
+	keyword whole ContiguousVector cyan
+	keyword whole ContiguousMatrix cyan
+	keyword whole ContiguousArray cyan
+	keyword whole Context cyan
+	keyword whole Cons cyan
+	keyword whole Condition cyan
+	keyword whole CompositeException cyan
+	keyword whole Compose cyan
+	keyword whole Complex64 cyan
+	keyword whole Complex32 cyan
+	keyword whole Complex128 cyan
+	keyword whole Complex cyan
+	keyword whole Compat cyan
+	keyword whole Colors cyan
+	keyword whole Colorant cyan
+	keyword whole ColorTypes cyan
+	keyword whole ColorAlpha cyan
+	keyword whole Color cyan
+	keyword whole Colon cyan
+	keyword whole Collections cyan
+	keyword whole Coff_t cyan
+	keyword whole CoefTable cyan
+	keyword whole Codecs cyan
+	keyword whole Cmd cyan
+	keyword whole ClusterManager cyan
+	keyword whole Clonglong cyan
+	keyword whole Clong cyan
+	keyword whole ClassifiedCollections cyan
+	keyword whole Cityblock cyan
+	keyword whole Cintmax_t cyan
+	keyword whole Cint cyan
+	keyword whole ChiSqDist cyan
+	keyword whole Chebyshev cyan
+	keyword whole Char cyan
+	keyword whole Channel cyan
+	keyword whole Cfloat cyan
+	keyword whole Cdouble cyan
+	keyword whole Cchar cyan
+	keyword whole CartesianRange cyan
+	keyword whole CartesianIndex cyan
+	keyword whole CapturedException cyan
+	keyword whole C_NULL cyan
+	keyword whole CPU_CORES cyan
+	keyword whole CIE1964_CMF cyan
+	keyword whole CIE1931_CMF cyan
+	keyword whole CIE1931J_CMF cyan
+	keyword whole CIE1931JV_CMF cyan
+	keyword whole CAIROSURFACE cyan
+	keyword whole ByteString brown
+	keyword whole BufferStream cyan
+	keyword whole Box cyan
+	keyword whole BoundsError cyan
+	keyword whole Bool cyan
+	keyword whole BitVector cyan
+	keyword whole BitMatrix cyan
+	keyword whole BitArray cyan
+	keyword whole BinaryHeap cyan
+	keyword whole BigInt cyan
+	keyword whole BigFloat cyan
+	keyword whole Bidiagonal cyan
+	keyword whole BhattacharyyaDist cyan
+	keyword whole Base64EncodePipe cyan
+	keyword whole Base64DecodePipe cyan
+	keyword whole Base64 cyan
+	keyword whole Base cyan
+	keyword whole BLAS cyan
+	keyword whole BGRA cyan
+	keyword whole BGR cyan
+	keyword whole BCD cyan
+	keyword whole AxyY cyan
+	keyword whole August cyan
+	keyword whole Aug cyan
+	keyword whole At_rdiv_Bt cyan
+	keyword whole At_rdiv_B cyan
+	keyword whole At_mul_Bt! brightmagenta
+	keyword whole At_mul_Bt cyan
+	keyword whole At_mul_B! brightmagenta
+	keyword whole At_mul_B cyan
+	keyword whole At_ldiv_Bt cyan
+	keyword whole At_ldiv_B cyan
+	keyword whole Associative cyan
+	keyword whole AssertionError cyan
+	keyword whole ArrayViews cyan
+	keyword whole ArrayView cyan
+	keyword whole Array cyan
+	keyword whole ArgumentError cyan
+	keyword whole April cyan
+	keyword whole Apr cyan
+	keyword whole Any cyan
+	keyword whole AlphaColor cyan
+	keyword whole Accumulator cyan
+	keyword whole Ac_rdiv_Bc cyan
+	keyword whole Ac_rdiv_B cyan
+	keyword whole Ac_mul_Bc! brightmagenta
+	keyword whole Ac_mul_Bc cyan
+	keyword whole Ac_mul_B! brightmagenta
+	keyword whole Ac_mul_B cyan
+	keyword whole Ac_ldiv_Bc cyan
+	keyword whole Ac_ldiv_B cyan
+	keyword whole AbstractVector cyan
+	keyword whole AbstractVecOrMat cyan
+	keyword whole AbstractString brown
+	keyword whole AbstractSparseVector brown
+	keyword whole AbstractSparseMatrix brown
+	keyword whole AbstractSparseArray brown
+	keyword whole AbstractRNG brown
+	keyword whole AbstractRGB brown
+	keyword whole AbstractMatrix brown
+	keyword whole AbstractHistogram brown
+	keyword whole AbstractHeap brown
+	keyword whole AbstractFloat brown
+	keyword whole AbstractDataVector brown
+	keyword whole AbstractDataMatrix brown
+	keyword whole AbstractDataFrame brown
+	keyword whole AbstractDataArray brown
+	keyword whole AbstractChannel brown
+	keyword whole AbstractArray brown
+	keyword whole AbsoluteBoundingBox cyan
+	keyword whole A_rdiv_Bt cyan
+	keyword whole A_rdiv_Bc cyan
+	keyword whole A_mul_Bt! brightmagenta
+	keyword whole A_mul_Bt cyan
+	keyword whole A_mul_Bc! brightmagenta
+	keyword whole A_mul_Bc cyan
+	keyword whole A_mul_B! brightmagenta
+	keyword whole A_ldiv_Bt cyan
+	keyword whole A_ldiv_Bc cyan
+	keyword whole A_ldiv_B! brightmagenta
+	keyword whole AYIQ cyan
+	keyword whole AYCbCr cyan
+	keyword whole AXYZ cyan
+	keyword whole ASCIIString brown
+	keyword whole ARGS brightcyan
+	keyword whole ARGB32 cyan
+	keyword whole ARGB cyan
+	keyword whole ANY brown
+	keyword whole ALuv cyan
+	keyword whole ALab cyan
+	keyword whole ALMS cyan
+	keyword whole ALCHuv cyan
+	keyword whole ALCHab cyan
+	keyword whole AHSV cyan
+	keyword whole AHSL cyan
+	keyword whole AHSI cyan
+	keyword whole AGray32 cyan
+	keyword whole AGray cyan
+	keyword whole ADIN99o cyan
+	keyword whole ADIN99d cyan
+	keyword whole ADIN99 cyan
+	keyword whole ABGR cyan
 	keyword @~ white
 	keyword @with white
 	keyword @windows_only white
