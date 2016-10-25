@@ -1650,9 +1650,6 @@ context default
 	keyword whole UnicodeError cyan
 	keyword whole UndefVarError cyan
 	keyword whole UndefRefError cyan
-	keyword whole UTF8String brown
-	keyword whole UTF32String brown
-	keyword whole UTF16String brown
 	keyword whole UTC cyan
 	keyword whole UInt8 brown
 	keyword whole UInt64 brown
@@ -1696,6 +1693,7 @@ context default
 	keyword whole SubString cyan
 	keyword whole SubDataFrame cyan
 	keyword whole SubArray cyan
+	keyword whole String brown
 	keyword whole StridedView cyan
 	keyword whole StridedVector cyan
 	keyword whole StridedVecOrMat cyan
@@ -1963,6 +1961,7 @@ context default
 	keyword whole GenSym cyan
 	keyword whole GZipStream cyan
 	keyword whole GZip cyan
+	keyword whole Generator brown
 	keyword whole GZError cyan
 	keyword whole Function cyan
 	keyword whole Friday cyan
@@ -2195,7 +2194,6 @@ context default
 	keyword whole AYIQ cyan
 	keyword whole AYCbCr cyan
 	keyword whole AXYZ cyan
-	keyword whole ASCIIString brown
 	keyword whole ARGS brightcyan
 	keyword whole ARGB32 cyan
 	keyword whole ARGB cyan
