@@ -1782,6 +1782,7 @@ context default
 	keyword whole QuickSort cyan
 	keyword whole Queue cyan
 	keyword whole Ptr cyan
+	keyword whole PROGRAM_FILE cyan
 	keyword whole Profile cyan
 	keyword whole ProcessGroup cyan
 	keyword whole ProcessExitedException cyan
