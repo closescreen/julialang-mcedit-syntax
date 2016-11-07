@@ -476,6 +476,7 @@ context default
 	keyword whole real magenta
 	keyword whole readuntil magenta
 	keyword whole readtable magenta
+        keyword whole readstring magenta
 	keyword whole readlink magenta
 	keyword whole readlines magenta
 	keyword whole readline magenta
