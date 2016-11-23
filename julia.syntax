@@ -15,8 +15,8 @@ context default
 #    keyword whole le yellow
 
     keyword ~ yellow
-    keyword \{ cyan
-    keyword \} cyan
+    keyword { cyan
+    keyword } cyan
     keyword \( cyan
     keyword \) cyan
     keyword \[ cyan
@@ -156,12 +156,6 @@ context default
 	keyword whole union! brightmagenta
 	keyword whole union magenta
 	keyword whole unescape_string magenta
-	keyword whole uint8 brown
-	keyword whole uint64 brown
-	keyword whole uint32 brown
-	keyword whole uint16 brown
-	keyword whole uint128 brown
-	keyword whole uint brown
 	keyword whole ucfirst magenta
 	keyword whole typeof magenta
 	keyword whole typemin magenta
@@ -1651,12 +1645,12 @@ context default
 	keyword whole UndefVarError cyan
 	keyword whole UndefRefError cyan
 	keyword whole UTC cyan
-	keyword whole UInt8 brown
-	keyword whole UInt64 brown
-	keyword whole UInt32 brown
-	keyword whole UInt16 brown
-	keyword whole UInt128 brown
-	keyword whole UInt brown
+	keyword whole UInt8 cyan
+	keyword whole UInt64 cyan
+	keyword whole UInt32 cyan
+	keyword whole UInt16 cyan
+	keyword whole UInt128 cyan
+	keyword whole UInt cyan
 	keyword whole UDPSocket cyan
 	keyword whole U8 cyan
 	keyword whole TypeVar cyan
@@ -1693,7 +1687,7 @@ context default
 	keyword whole SubString cyan
 	keyword whole SubDataFrame cyan
 	keyword whole SubArray cyan
-	keyword whole String brown
+	keyword whole String cyan
 	keyword whole StridedView cyan
 	keyword whole StridedVector cyan
 	keyword whole StridedVecOrMat cyan
@@ -1961,7 +1955,7 @@ context default
 	keyword whole GenSym cyan
 	keyword whole GZipStream cyan
 	keyword whole GZip cyan
-	keyword whole Generator brown
+	keyword whole Generator cyan
 	keyword whole GZError cyan
 	keyword whole Function cyan
 	keyword whole Friday cyan
@@ -2111,7 +2105,7 @@ context default
 	keyword whole CIE1931J_CMF cyan
 	keyword whole CIE1931JV_CMF cyan
 	keyword whole CAIROSURFACE cyan
-	keyword whole ByteString brown
+	keyword whole ByteString cyan
 	keyword whole BufferStream cyan
 	keyword whole Box cyan
 	keyword whole BoundsError cyan
@@ -2164,22 +2158,22 @@ context default
 	keyword whole Ac_ldiv_B cyan
 	keyword whole AbstractVector cyan
 	keyword whole AbstractVecOrMat cyan
-	keyword whole AbstractString brown
-	keyword whole AbstractSparseVector brown
-	keyword whole AbstractSparseMatrix brown
-	keyword whole AbstractSparseArray brown
-	keyword whole AbstractRNG brown
-	keyword whole AbstractRGB brown
-	keyword whole AbstractMatrix brown
-	keyword whole AbstractHistogram brown
-	keyword whole AbstractHeap brown
-	keyword whole AbstractFloat brown
-	keyword whole AbstractDataVector brown
-	keyword whole AbstractDataMatrix brown
-	keyword whole AbstractDataFrame brown
-	keyword whole AbstractDataArray brown
-	keyword whole AbstractChannel brown
-	keyword whole AbstractArray brown
+	keyword whole AbstractString cyan
+	keyword whole AbstractSparseVector cyan
+	keyword whole AbstractSparseMatrix cyan
+	keyword whole AbstractSparseArray cyan
+	keyword whole AbstractRNG cyan
+	keyword whole AbstractRGB cyan
+	keyword whole AbstractMatrix cyan
+	keyword whole AbstractHistogram cyan
+	keyword whole AbstractHeap cyan
+	keyword whole AbstractFloat cyan
+	keyword whole AbstractDataVector cyan
+	keyword whole AbstractDataMatrix cyan
+	keyword whole AbstractDataFrame cyan
+	keyword whole AbstractDataArray cyan
+	keyword whole AbstractChannel cyan
+	keyword whole AbstractArray cyan
 	keyword whole AbsoluteBoundingBox cyan
 	keyword whole A_rdiv_Bt cyan
 	keyword whole A_rdiv_Bc cyan
@@ -2197,7 +2191,7 @@ context default
 	keyword whole ARGS brightcyan
 	keyword whole ARGB32 cyan
 	keyword whole ARGB cyan
-	keyword whole ANY brown
+	keyword whole ANY cyan
 	keyword whole ALuv cyan
 	keyword whole ALab cyan
 	keyword whole ALMS cyan
@@ -2387,6 +2381,8 @@ context exclusive whole <\[\s\\\]EOF EOF green
 
 context # \n brown
     spellcheck
+
+
 
 context exclusive linestart = linestart =cut brown
     spellcheck
