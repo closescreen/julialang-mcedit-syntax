@@ -470,6 +470,7 @@ context default
 	keyword whole real magenta
 	keyword whole readuntil magenta
 	keyword whole readtable magenta
+        keyword whole readstring magenta
 	keyword whole readlink magenta
 	keyword whole readlines magenta
 	keyword whole readline magenta
@@ -1776,6 +1777,7 @@ context default
 	keyword whole QuickSort cyan
 	keyword whole Queue cyan
 	keyword whole Ptr cyan
+	keyword whole PROGRAM_FILE cyan
 	keyword whole Profile cyan
 	keyword whole ProcessGroup cyan
 	keyword whole ProcessExitedException cyan
