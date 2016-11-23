@@ -2396,6 +2396,8 @@ context " " green
 context ' ' brightgreen
     keyword \\' green
     keyword \\\\ green
+    
+context { } cyan    
 
 context exclusive """ """ green
 
