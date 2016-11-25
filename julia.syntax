@@ -17,10 +17,10 @@ context default
     keyword ~ yellow
     keyword { cyan
     keyword } cyan
-    keyword \( cyan
-    keyword \) cyan
-    keyword \[ cyan
-    keyword \] cyan
+    keyword \( yellow
+    keyword \) yellow
+    keyword [ yellow
+    keyword ] yellow
     keyword , cyan
     keyword .. cyan
     keyword ... cyan
@@ -2395,7 +2395,7 @@ context ' ' brightgreen
     keyword \\' green
     keyword \\\\ green
     
-context { } cyan    
+context exclusive { } cyan    
 
 context exclusive """ """ green
 
