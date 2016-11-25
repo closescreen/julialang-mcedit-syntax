@@ -838,7 +838,6 @@ context default
 	keyword whole join magenta
 	keyword whole itrunc magenta
 	keyword whole iterate magenta
-	keyword whole iter magenta
 	keyword whole isxdigit red
 	keyword whole iswritable red
 	keyword whole isvalid red
@@ -1451,7 +1450,6 @@ context default
 	keyword whole c_malloc magenta
 	keyword whole c_free magenta
 	keyword whole c_calloc magenta
-	keyword whole c magenta
 	keyword whole bytestring magenta
 	keyword whole bytes2hex magenta
 	keyword whole by magenta
