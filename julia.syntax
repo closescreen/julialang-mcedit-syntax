@@ -25,7 +25,7 @@ context default
     keyword .. cyan
     keyword ... cyan
     keyword : cyan
-    keyword ; cyan
+    keyword ; yellow
 
 
 #-----------julia
