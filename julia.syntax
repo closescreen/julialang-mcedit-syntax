@@ -2345,13 +2345,13 @@ context # \n brown
 
 
 context whole """ """ green
-    keyword \\" brightgreen
-    keyword \\\\ brightgreen
-    keyword $( brightgreen
-    keyword ( brightgreen
-    keyword ) brightgreen
-    keyword $ brightgreen
-    keyword -> brightgreen
+    keyword \\" brown
+    keyword \\\\ brown
+    keyword ( brown
+    keyword ) brown
+    keyword $ brown
+    keyword -> brown
+    keyword whole \\n brightblue
 
 context wholeleft s"""  """ green
     keyword \\" brown
@@ -2388,9 +2388,10 @@ context wholeleft s"""  """ green
 
 
 context " " green
-    keyword \\" brightgreen
-    keyword \\\\ brightgreen
-    keyword $ red
+    keyword \\" brown
+    keyword \\\\ brown
+    keyword $ brown
+    keyword whole \\n brightblue
 
 context ' ' brightgreen
     keyword \\' green
