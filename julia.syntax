@@ -2391,7 +2391,7 @@ context " " green
     keyword \\" brown
     keyword \\\\ brown
     keyword $ brown
-    keyword whole \\n brightblue
+    keyword \\n brightblue
 
 context ' ' brightgreen
     keyword \\' green
