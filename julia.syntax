@@ -1,31 +1,17 @@
 context default
 
-# subroutine prototypes
-#    keyword (\[$%&\*;@[\\]\]) brightcyan
-
-#    keyword $_ red
-#    keyword $. red
-
-#    keyword <+> brightred
-#    keyword -> yellow
-#    keyword => yellow
-#    keyword > yellow
-
-#    keyword whole ge yellow
-#    keyword whole le yellow
-
-    keyword ~ yellow
+    keyword ~ red
     keyword { cyan
     keyword } cyan
-    keyword \( yellow
-    keyword \) yellow
-    keyword [ yellow
-    keyword ] yellow
+    keyword \( red
+    keyword \) red
+    keyword [ red
+    keyword ] red
     keyword , cyan
     keyword .. cyan
     keyword ... cyan
     keyword : cyan
-    keyword ; yellow
+    keyword ; red
 
 
 #-----------julia
@@ -54,9 +40,9 @@ context default
 	keyword γ white
 	keyword ÷ white
 	keyword × white
-	keyword ~ yellow
-	keyword |> yellow
-	keyword | yellow
+	keyword ~ red
+	keyword |> red
+	keyword | red
 	keyword whole zscore! brightmagenta
 	keyword whole zscore magenta
 	keyword whole zip magenta
@@ -537,13 +523,13 @@ context default
 	keyword whole process_running magenta
 	keyword whole process_exited magenta
 	keyword whole printtable magenta
-	keyword whole println yellow
-	keyword whole print_with_color yellow
-	keyword whole print_unescaped yellow
-	keyword whole print_shortest yellow
-	keyword whole print_joined yellow
-	keyword whole print_escaped yellow
-	keyword whole print yellow
+	keyword whole println red
+	keyword whole print_with_color red
+	keyword whole print_unescaped red
+	keyword whole print_shortest red
+	keyword whole print_joined red
+	keyword whole print_escaped red
+	keyword whole print red
 	keyword whole primesmask magenta
 	keyword whole primes magenta
 	keyword whole prewalk magenta
@@ -1061,7 +1047,7 @@ context default
 	keyword whole gcd magenta
 	keyword whole gc_enable magenta
 	keyword whole gc_disable magenta
-	keyword whole gc brightred
+	keyword whole gc red
 	keyword whole gamma magenta
 	keyword whole functionlocs magenta
 	keyword whole functionloc magenta
@@ -2302,76 +2288,48 @@ context default
 	keyword @MIME white
 	keyword @>> white
 	keyword @> white
-	keyword >>> yellow
-	keyword >> yellow
-	keyword >= yellow
-	keyword > yellow
-	keyword => yellow
-	keyword === yellow
-	keyword == yellow
-	keyword <= yellow
-	keyword << yellow
-	keyword <: yellow
-	keyword < yellow
-	keyword : yellow
-	keyword // yellow
-	keyword / yellow
-	keyword .≥ yellow
-	keyword .≤ yellow
-	keyword .≠ yellow
-	keyword .^ yellow
-	keyword .\ yellow
-	keyword .>> yellow
-	keyword .>= yellow
-	keyword .> yellow
-	keyword .== yellow
-	keyword .<= yellow
-	keyword .<< yellow
-	keyword .< yellow
-	keyword .// yellow
-	keyword ./ yellow
-	keyword .- yellow
-	keyword .\+ yellow
-	keyword .\* yellow
-	keyword .% yellow
-	keyword .!= yellow
-	keyword - yellow
-	keyword \+ yellow
-	keyword \* yellow
-	keyword & yellow
-	keyword % yellow
-	keyword $ yellow
-	keyword !== yellow
-	keyword != yellow
-	keyword ! yellow
-
-
-#-----------julia
-
-#    keyword whole sub yellow
-#    keyword whole STDIN brightred
-#    keyword whole STDOUT brightred
-#    keyword whole STDERR brightred
-
-#    keyword wholeright $+ brightgreen
-#    keyword wholeright %+ brightcyan
-#    keyword wholeright @+ white
-#    keyword \\" brightred
-#    keyword \\' brightred
-
-#    keyword % yellow
-#    keyword & brightmagenta
-
-#    keyword whole and cyan
-#    keyword whole bless cyan
-
-
-#    keyword whole diagnostics brightcyan
-#    keyword whole integer brightcyan
-
-
-#    keyword whole recv yellow
-#    keyword whole send yellow
+	keyword >>> red
+	keyword >> red
+	keyword >= red
+	keyword > red
+	keyword => red
+	keyword === red
+	keyword == red
+	keyword <= red
+	keyword << red
+	keyword <: red
+	keyword < red
+	keyword : red
+	keyword // red
+	keyword / red
+	keyword .≥ red
+	keyword .≤ red
+	keyword .≠ red
+	keyword .^ red
+	keyword .\ red
+	keyword .>> red
+	keyword .>= red
+	keyword .> red
+	keyword .== red
+	keyword .<= red
+	keyword .<< red
+	keyword .< red
+	keyword .// red
+	keyword ./ red
+	keyword .- red
+	keyword .\+ red
+	keyword .\* red
+	keyword .% red
+	keyword .!= red
+	keyword - red
+	keyword \+ red
+	keyword \* red
+	keyword & red
+	keyword % red
+	keyword $ red
+	keyword !== red
+	keyword != red
+	keyword ! red
 
 
 
@@ -2379,13 +2337,18 @@ context linestart #! \n brightcyan black
 
 context exclusive whole <\[\s\\\]EOF EOF green
 
+context #= =# brown
+
 context # \n brown
     spellcheck
 
 
 
-context exclusive linestart = linestart =cut brown
-    spellcheck
+context """ """ green
+    keyword \\" brightgreen
+    keyword \\\\ brightgreen
+    keyword $ red
+
 
 context " " green
     keyword \\" brightgreen
@@ -2397,7 +2360,6 @@ context ' ' brightgreen
     
 context exclusive { } cyan    
 
-context exclusive """ """ green
 
 context exclusive ` ` white black
 
